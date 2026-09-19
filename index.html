@@ -419,6 +419,23 @@
       }
     }
 
+    function checkAndAutoUnlock() {
+      var currentDevId = getDeviceId();
+      var activatedDev = localStorage.getItem('creator_activated_device') || sessionStorage.getItem('creator_activated_device');
+      var savedKey = localStorage.getItem('creator_saved_activation_key');
+
+      if (activatedDev === currentDevId && savedKey && verifyActivationKey(savedKey)) {
+        var lock = document.getElementById('lockScreen');
+        var dash = document.getElementById('dashboard');
+        if (lock) lock.classList.add('hidden');
+        if (dash) dash.classList.remove('hidden');
+        updateCategoryBadges();
+        handleFilter();
+        return true;
+      }
+      return false;
+    }
+
     function unlockDashboard() {
       var input = document.getElementById('passInput');
       var errorMsg = document.getElementById('errorMsg');
@@ -444,11 +461,16 @@
           btn.classList.add('!bg-emerald-600');
         }
 
+        var devId = getDeviceId();
+
         if (rememberChk && rememberChk.checked) {
-          localStorage.setItem('creator_activated_device', getDeviceId());
+          localStorage.setItem('creator_activated_device', devId);
           localStorage.setItem('creator_saved_activation_key', val);
+          sessionStorage.removeItem('creator_activated_device');
         } else {
-          sessionStorage.setItem('creator_activated_device', getDeviceId());
+          sessionStorage.setItem('creator_activated_device', devId);
+          localStorage.removeItem('creator_activated_device');
+          localStorage.removeItem('creator_saved_activation_key');
         }
 
         setTimeout(function() {
@@ -723,17 +745,7 @@
 
     window.addEventListener('DOMContentLoaded', function() {
       setupLockScreen();
-      var currentDevId = getDeviceId();
-      var activatedDev = localStorage.getItem('creator_activated_device') || sessionStorage.getItem('creator_activated_device');
-
-      if (activatedDev === currentDevId) {
-        var lock = document.getElementById('lockScreen');
-        var dash = document.getElementById('dashboard');
-        if (lock) lock.classList.add('hidden');
-        if (dash) dash.classList.remove('hidden');
-        updateCategoryBadges();
-        handleFilter();
-      }
+      checkAndAutoUnlock();
     });
   </script>
 </body>
