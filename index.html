@@ -432,6 +432,12 @@
         lock.style.display = 'flex';
         lock.classList.remove('hidden');
       }
+      // লক স্ক্রিন দেখানোর সময় সেভ করা কি ইনপুটে প্রি-ফিল করে রাখা
+      var savedKey = localStorage.getItem('creator_saved_activation_key');
+      var passInput = document.getElementById('passInput');
+      if (savedKey && passInput) {
+        passInput.value = savedKey;
+      }
     }
 
     function setupLockScreen() {
@@ -449,10 +455,11 @@
 
     function checkAndAutoUnlock() {
       var currentDevId = getDeviceId();
-      var activatedDev = localStorage.getItem('creator_activated_device') || sessionStorage.getItem('creator_activated_device');
+      var isUnlocked = localStorage.getItem('creator_is_unlocked');
       var savedKey = localStorage.getItem('creator_saved_activation_key');
 
-      if (activatedDev === currentDevId && savedKey && verifyActivationKey(savedKey)) {
+      // যদি সেভ করা থাকে এবং কি ভ্যালিড হয়, সরাসরি ড্যাশবোর্ড দেখাবে
+      if (isUnlocked === 'true' && savedKey && verifyActivationKey(savedKey)) {
         showDashboardUI();
         return true;
       }
@@ -488,16 +495,13 @@
           btn.classList.add('!bg-emerald-600');
         }
 
-        var devId = getDeviceId();
+        // Remember Me সিলেক্ট থাকুক বা না থাকুক, কি সবসময় লোকালস্টোরেজে সেভ থাকবে
+        localStorage.setItem('creator_saved_activation_key', val);
 
         if (rememberChk && rememberChk.checked) {
-          localStorage.setItem('creator_activated_device', devId);
-          localStorage.setItem('creator_saved_activation_key', val);
-          sessionStorage.removeItem('creator_activated_device');
+          localStorage.setItem('creator_is_unlocked', 'true');
         } else {
-          sessionStorage.setItem('creator_activated_device', devId);
-          localStorage.removeItem('creator_activated_device');
-          localStorage.removeItem('creator_saved_activation_key');
+          sessionStorage.setItem('creator_is_unlocked', 'true');
         }
 
         setTimeout(function() {
@@ -506,7 +510,7 @@
             btn.innerHTML = "<span>আনলক করুন</span><span>🚀</span>";
             btn.classList.remove('!bg-emerald-600');
           }
-        }, 300);
+        }, 200);
       } else {
         if (errorMsg) {
           errorMsg.innerText = "ভুল অ্যাক্টিভেশন কি! সঠিক কি দিন।";
@@ -520,14 +524,11 @@
     }
 
     function logoutDashboard() {
-      localStorage.removeItem('creator_activated_device');
-      localStorage.removeItem('creator_saved_activation_key');
-      sessionStorage.removeItem('creator_activated_device');
+      // লগআউট করলে শুধু আনলক স্ট্যাটাস মুছে যাবে, কিন্তু কি সেভ থাকবে
+      localStorage.removeItem('creator_is_unlocked');
+      sessionStorage.removeItem('creator_is_unlocked');
 
       showLockScreenUI();
-
-      var input = document.getElementById('passInput');
-      if (input) input.value = '';
     }
 
     var activeCategory = "all";
