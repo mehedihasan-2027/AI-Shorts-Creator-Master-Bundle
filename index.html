@@ -85,17 +85,6 @@
         <div class="text-lg font-mono font-extrabold text-indigo-300 tracking-widest" id="displayDeviceId">DEV-0000</div>
       </div>
 
-      <!-- TrxID Field -->
-      <div class="mb-3">
-        <input 
-          type="text" 
-          id="trxInput" 
-          oninput="updateWhatsAppLink()" 
-          placeholder="বিকাশ / নগদ TrxID (যদি থাকে)..." 
-          class="w-full bg-[#070a13] border border-slate-700/80 rounded-xl px-3.5 py-2.5 text-xs text-center text-slate-200 placeholder-slate-500 focus:outline-none focus:border-indigo-500 transition"
-        >
-      </div>
-
       <!-- Activation Key Input -->
       <div class="relative mb-3">
         <input 
@@ -313,7 +302,7 @@
       <div class="p-5 sm:p-6 overflow-y-auto space-y-4 text-xs leading-relaxed custom-scroll">
         <div class="bg-[#070b14] p-4 rounded-2xl border border-slate-800">
           <h4 class="font-bold text-amber-400 text-sm mb-1">১. ফেসবুক ও ইনস্টাগ্রাম বোনাস প্রোগ্রাম:</h4>
-          <p class="text-slate-300">প্রতিদিন নিয়মিত ২ টি করে রিলস পোস্ট করুন এবং এনগেজমেন্ট বাড়ান।</p>
+          <p class="text-slate-300">প্রতিদিন নিয়মিত ২ টি করে রিলস পোস্ট করুন এবং এনগেজমেন্ট বাড়ান।</p>
         </div>
       </div>
       <div class="p-4 border-t border-slate-800 bg-[#0a0f1d] flex justify-end">
@@ -395,11 +384,9 @@
 
     function updateWhatsAppLink() {
       var devId = getDeviceId();
-      var trx = (document.getElementById('trxInput') ? document.getElementById('trxInput').value.trim() : '');
       var waBtn = document.getElementById('whatsappBtn');
       if (waBtn) {
-        var msgText = "হ্যালো ভাইয়া, আমি AI Shorts Creator বান্ডেলটি কিনেছি।\nআমার ডিভাইস কোড: " + devId;
-        if (trx) msgText += "\nপেমেন্ট TrxID: " + trx;
+        var msgText = "হ্যালো ভাইয়া, আমি AI Shorts Creator বান্ডেলটি নিতে চাই।\nআমার ডিভাইস কোড: " + devId;
         waBtn.href = "https://wa.me/" + WHATSAPP_NUMBER + "?text=" + encodeURIComponent(msgText);
       }
     }
@@ -451,7 +438,7 @@
           btn.classList.add('!bg-emerald-600');
         }
 
-        // Check if Remember Me is checked
+        // Always save if checked, or save default
         if (rememberChk && rememberChk.checked) {
           localStorage.setItem('creator_activated_device', getDeviceId());
         }
@@ -710,7 +697,7 @@
           text += '\n--- Scene ' + (i+1) + ' ---\nDialogue: ' + (s.dialogue || '') + '\nPrompt: ' + modifyPromptText(s.prompt || '') + '\n';
         }
       }
-      navigator.clipboard.writeText(text).then(function() { showToast("✓ সম্পূর্ণ কিট কপি করুন!"); });
+      navigator.clipboard.writeText(text).then(function() { showToast("✓ সম্পূর্ণ কিট কপি হয়েছে!"); });
     }
 
     var pInput = document.getElementById('passInput');
