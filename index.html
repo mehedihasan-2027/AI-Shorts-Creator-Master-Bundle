@@ -134,7 +134,7 @@
   </div>
 
   <!-- Main Dashboard App -->
-  <div id="dashboard" class="hidden min-h-screen flex flex-col w-full">
+  <div id="dashboard" style="display: none;" class="min-h-screen flex flex-col w-full">
     
     <div class="bg-gradient-to-r from-indigo-900/90 via-purple-900/90 to-indigo-900/90 border-b border-indigo-500/30 px-4 py-2 text-center text-[11px] sm:text-xs font-semibold text-indigo-100 flex items-center justify-center gap-2 shadow-inner">
       <span class="flex h-2 w-2 relative">
@@ -406,6 +406,34 @@
       });
     }
 
+    function showDashboardUI() {
+      var lock = document.getElementById('lockScreen');
+      var dash = document.getElementById('dashboard');
+      if (lock) {
+        lock.style.display = 'none';
+        lock.classList.add('hidden');
+      }
+      if (dash) {
+        dash.style.display = 'flex';
+        dash.classList.remove('hidden');
+      }
+      updateCategoryBadges();
+      handleFilter();
+    }
+
+    function showLockScreenUI() {
+      var lock = document.getElementById('lockScreen');
+      var dash = document.getElementById('dashboard');
+      if (dash) {
+        dash.style.display = 'none';
+        dash.classList.add('hidden');
+      }
+      if (lock) {
+        lock.style.display = 'flex';
+        lock.classList.remove('hidden');
+      }
+    }
+
     function setupLockScreen() {
       var devId = getDeviceId();
       var displayEl = document.getElementById('displayDeviceId');
@@ -425,14 +453,10 @@
       var savedKey = localStorage.getItem('creator_saved_activation_key');
 
       if (activatedDev === currentDevId && savedKey && verifyActivationKey(savedKey)) {
-        var lock = document.getElementById('lockScreen');
-        var dash = document.getElementById('dashboard');
-        if (lock) lock.classList.add('hidden');
-        if (dash) dash.classList.remove('hidden');
-        updateCategoryBadges();
-        handleFilter();
+        showDashboardUI();
         return true;
       }
+      showLockScreenUI();
       return false;
     }
 
@@ -443,7 +467,10 @@
       var rememberChk = document.getElementById('rememberMe');
       var val = input ? input.value.trim() : '';
 
-      if (errorMsg) errorMsg.classList.add('hidden');
+      if (errorMsg) {
+        errorMsg.innerText = '';
+        errorMsg.classList.add('hidden');
+      }
       if (input) input.classList.remove('border-rose-500');
 
       if (!val) {
@@ -474,13 +501,11 @@
         }
 
         setTimeout(function() {
-          var lock = document.getElementById('lockScreen');
-          var dash = document.getElementById('dashboard');
-          if (lock) lock.classList.add('hidden');
-          if (dash) dash.classList.remove('hidden');
-
-          updateCategoryBadges();
-          handleFilter();
+          showDashboardUI();
+          if (btn) {
+            btn.innerHTML = "<span>আনলক করুন</span><span>🚀</span>";
+            btn.classList.remove('!bg-emerald-600');
+          }
         }, 300);
       } else {
         if (errorMsg) {
@@ -499,10 +524,7 @@
       localStorage.removeItem('creator_saved_activation_key');
       sessionStorage.removeItem('creator_activated_device');
 
-      var lock = document.getElementById('lockScreen');
-      var dash = document.getElementById('dashboard');
-      if (dash) dash.classList.add('hidden');
-      if (lock) lock.classList.remove('hidden');
+      showLockScreenUI();
 
       var input = document.getElementById('passInput');
       if (input) input.value = '';
