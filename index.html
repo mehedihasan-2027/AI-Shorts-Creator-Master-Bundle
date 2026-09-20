@@ -136,6 +136,7 @@
   <!-- Main Dashboard App -->
   <div id="dashboard" style="display: none;" class="min-h-screen flex flex-col w-full">
     
+    <!-- Weekly Updates Live Announcement Header -->
     <div class="bg-gradient-to-r from-indigo-900/90 via-purple-900/90 to-indigo-900/90 border-b border-indigo-500/30 px-4 py-2 text-center text-[11px] sm:text-xs font-semibold text-indigo-100 flex items-center justify-center gap-2 shadow-inner">
       <span class="flex h-2 w-2 relative">
         <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
@@ -179,19 +180,19 @@
             <span class="absolute left-2.5 top-2.5 text-slate-400 text-xs">🔍</span>
           </div>
 
-          <button onclick="openRoadmapModal()" class="hidden md:flex items-center gap-1 bg-amber-500/10 hover:bg-amber-500/20 text-amber-300 border border-amber-500/30 text-xs font-bold px-3 py-2 rounded-xl transition">
+          <button onclick="openRoadmapModal()" class="hidden md:flex items-center gap-1 bg-amber-500/10 hover:bg-amber-500/20 text-amber-300 border border-amber-500/30 text-xs font-bold px-3 py-2 rounded-xl transition cursor-pointer">
             <span>💰 মানিটাইজেশন রোডম্যাপ</span>
           </button>
 
-          <button onclick="openSoundsModal()" class="hidden md:flex items-center gap-1 bg-rose-500/10 hover:bg-rose-500/20 text-rose-300 border border-rose-500/30 text-xs font-bold px-3 py-2 rounded-xl transition">
+          <button onclick="openSoundsModal()" class="hidden md:flex items-center gap-1 bg-rose-500/10 hover:bg-rose-500/20 text-rose-300 border border-rose-500/30 text-xs font-bold px-3 py-2 rounded-xl transition cursor-pointer">
             <span>🎵 টপ ভাইরাল সাউন্ডস</span>
           </button>
 
-          <button onclick="openGuideModal()" class="hidden md:flex items-center gap-1 bg-emerald-600/20 hover:bg-emerald-600/30 text-emerald-300 text-xs font-bold px-3 py-2 rounded-xl border border-emerald-500/40 transition">
+          <button onclick="openGuideModal()" class="hidden md:flex items-center gap-1 bg-emerald-600/20 hover:bg-emerald-600/30 text-emerald-300 text-xs font-bold px-3 py-2 rounded-xl border border-emerald-500/40 transition cursor-pointer">
             <span>🎬 গাইড</span>
           </button>
 
-          <button onclick="logoutDashboard()" class="hidden md:flex items-center gap-1 bg-rose-950/30 hover:bg-rose-900/50 text-rose-300 border border-rose-800/40 text-xs font-bold px-3 py-2 rounded-xl transition">
+          <button onclick="logoutDashboard()" class="hidden md:flex items-center gap-1 bg-rose-950/30 hover:bg-rose-900/50 text-rose-300 border border-rose-800/40 text-xs font-bold px-3 py-2 rounded-xl transition cursor-pointer">
             <span>লগআউট</span>
           </button>
         </div>
@@ -200,30 +201,23 @@
 
     <main class="flex-1 max-w-7xl w-full mx-auto px-3 sm:px-6 lg:px-8 py-4 sm:py-6">
       
-      <div class="grid grid-cols-2 sm:grid-cols-3 gap-2.5 mb-5 md:hidden">
-        <button onclick="openRoadmapModal()" class="bg-[#11192e] border border-amber-500/30 p-2.5 rounded-xl text-left flex items-center gap-2">
-          <span class="text-base">💰</span>
-          <div>
-            <div class="text-[11px] font-bold text-amber-300">Monetization</div>
-            <div class="text-[9px] text-slate-400">১ পৃষ্ঠার পূর্ণাঙ্গ গাইড</div>
-          </div>
+      <!-- Mobile Quick Cards -->
+      <div class="grid grid-cols-3 gap-2 mb-5 md:hidden">
+        <button onclick="openRoadmapModal()" class="bg-[#11192e] border border-amber-500/30 p-2 rounded-xl text-center flex flex-col items-center justify-center">
+          <span class="text-lg mb-0.5">💰</span>
+          <span class="text-[10.5px] font-bold text-amber-300 leading-tight">রোডম্যাপ</span>
         </button>
-        <button onclick="openSoundsModal()" class="bg-[#11192e] border border-rose-500/30 p-2.5 rounded-xl text-left flex items-center gap-2">
-          <span class="text-base">🔥</span>
-          <div>
-            <div class="text-[11px] font-bold text-rose-300">Top 100 Sounds</div>
-            <div class="text-[9px] text-slate-400">ট্রেন্ডিং অডিও লিংক</div>
-          </div>
+        <button onclick="openSoundsModal()" class="bg-[#11192e] border border-rose-500/30 p-2 rounded-xl text-center flex flex-col items-center justify-center">
+          <span class="text-lg mb-0.5">🔥</span>
+          <span class="text-[10.5px] font-bold text-rose-300 leading-tight">সাউন্ড হাব</span>
         </button>
-        <button onclick="openGuideModal()" class="col-span-2 sm:col-span-1 bg-[#11192e] border border-emerald-500/30 p-2.5 rounded-xl text-left flex items-center gap-2">
-          <span class="text-base">🎬</span>
-          <div>
-            <div class="text-[11px] font-bold text-emerald-300">Editing Guide</div>
-            <div class="text-[9px] text-slate-400">৫ মিনিটে ফুল রিল</div>
-          </div>
+        <button onclick="openGuideModal()" class="bg-[#11192e] border border-emerald-500/30 p-2 rounded-xl text-center flex flex-col items-center justify-center">
+          <span class="text-lg mb-0.5">🎬</span>
+          <span class="text-[10.5px] font-bold text-emerald-300 leading-tight">মেকিং গাইড</span>
         </button>
       </div>
 
+      <!-- AI Modifier Box -->
       <div class="mb-5 bg-gradient-to-r from-indigo-950/50 via-[#131b31] to-purple-950/40 border border-indigo-500/30 rounded-2xl p-3.5 sm:p-4 flex flex-col sm:flex-row items-center justify-between gap-3 shadow-lg shadow-black/20">
         <div class="text-left w-full sm:w-auto">
           <div class="flex items-center gap-2">
@@ -244,29 +238,30 @@
         </div>
       </div>
 
+      <!-- Categories Tabs -->
       <div class="mb-5 w-full">
         <div class="flex flex-wrap items-center gap-2 select-none" id="categoryTabs">
-          <button onclick="switchCategory('all', this)" class="tab-pill active shrink-0 px-3.5 py-2 rounded-xl text-xs font-bold flex items-center gap-2">
+          <button onclick="switchCategory('all', this)" class="tab-pill active shrink-0 px-3.5 py-2 rounded-xl text-xs font-bold flex items-center gap-2 cursor-pointer">
             <span>🌟 সবগুলো (All)</span>
             <span id="badge-all" class="bg-black/40 text-[10px] px-2 py-0.5 rounded-full text-indigo-200">0</span>
           </button>
-          <button onclick="switchCategory('cartoon', this)" class="tab-pill shrink-0 px-3.5 py-2 rounded-xl text-xs font-bold flex items-center gap-2">
+          <button onclick="switchCategory('cartoon', this)" class="tab-pill shrink-0 px-3.5 py-2 rounded-xl text-xs font-bold flex items-center gap-2 cursor-pointer">
             <span>🧸 কার্টুন ও বাচ্চা-প্রাণী</span>
             <span id="badge-cartoon" class="bg-indigo-500/20 text-indigo-300 border border-indigo-500/30 text-[10px] px-1.5 py-0.5 rounded-full">0</span>
           </button>
-          <button onclick="switchCategory('horror', this)" class="tab-pill shrink-0 px-3.5 py-2 rounded-xl text-xs font-bold flex items-center gap-2">
+          <button onclick="switchCategory('horror', this)" class="tab-pill shrink-0 px-3.5 py-2 rounded-xl text-xs font-bold flex items-center gap-2 cursor-pointer">
             <span>👻 হরর ও রহস্য</span>
             <span id="badge-horror" class="bg-indigo-500/20 text-indigo-300 border border-indigo-500/30 text-[10px] px-1.5 py-0.5 rounded-full">0</span>
           </button>
-          <button onclick="switchCategory('space', this)" class="tab-pill shrink-0 px-3.5 py-2 rounded-xl text-xs font-bold flex items-center gap-2">
+          <button onclick="switchCategory('space', this)" class="tab-pill shrink-0 px-3.5 py-2 rounded-xl text-xs font-bold flex items-center gap-2 cursor-pointer">
             <span>🚀 স্পেস ও সায়েন্স</span>
             <span id="badge-space" class="bg-indigo-500/20 text-indigo-300 border border-indigo-500/30 text-[10px] px-1.5 py-0.5 rounded-full">0</span>
           </button>
-          <button onclick="switchCategory('psychology', this)" class="tab-pill shrink-0 px-3.5 py-2 rounded-xl text-xs font-bold flex items-center gap-2">
+          <button onclick="switchCategory('psychology', this)" class="tab-pill shrink-0 px-3.5 py-2 rounded-xl text-xs font-bold flex items-center gap-2 cursor-pointer">
             <span>🧠 সাইকোলজি ও ডার্ক ফ্যাক্টস</span>
             <span id="badge-psychology" class="bg-indigo-500/20 text-indigo-300 border border-indigo-500/30 text-[10px] px-1.5 py-0.5 rounded-full">0</span>
           </button>
-          <button onclick="switchCategory('saved', this)" class="tab-pill shrink-0 px-3.5 py-2 rounded-xl text-xs font-bold border border-amber-500/30 bg-[#16140b] text-amber-400 hover:text-amber-300 flex items-center gap-2">
+          <button onclick="switchCategory('saved', this)" class="tab-pill shrink-0 px-3.5 py-2 rounded-xl text-xs font-bold border border-amber-500/30 bg-[#16140b] text-amber-400 hover:text-amber-300 flex items-center gap-2 cursor-pointer">
             <span>⭐ সেভ করা কিট</span>
             <span id="badge-saved" class="bg-amber-500/20 text-amber-300 border border-amber-500/30 text-[10px] px-1.5 py-0.5 rounded-full font-bold">0</span>
           </button>
@@ -275,88 +270,222 @@
 
       <div class="flex items-center justify-between mb-4 border-b border-slate-800/80 pb-2.5 px-1">
         <span class="text-xs font-bold uppercase tracking-wider text-indigo-400" id="activeCategoryTitle">সবগুলো কিট প্রদর্শিত হচ্ছে</span>
-        <span class="text-xs font-semibold text-slate-400 hidden sm:inline" id="itemsCount">0 Items Available</span>
+        <span class="text-xs font-semibold text-slate-400" id="itemsCount">0 Items Available</span>
       </div>
 
-      <div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6"></div>
+      <!-- Main Cards Container Grid -->
+      <div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6 min-h-[300px]"></div>
+
+      <!-- Load More Action Container -->
+      <div id="loadMoreContainer" class="mt-8 mb-12 text-center hidden">
+        <button onclick="loadMoreCards()" class="px-8 py-3 bg-gradient-to-r from-indigo-600 via-indigo-500 to-purple-600 hover:opacity-95 text-white font-bold text-xs rounded-xl shadow-lg shadow-indigo-600/30 transition transform active:scale-95 cursor-pointer">
+          আরও ২০টি কিট লোড করুন ⬇
+        </button>
+      </div>
     </main>
 
-    <button id="scrollTopBtn" onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" class="fixed bottom-5 right-5 hidden z-40 h-11 w-11 rounded-full bg-gradient-to-tr from-indigo-600 to-purple-600 text-white font-bold shadow-xl shadow-indigo-600/30 flex items-center justify-center hover:scale-105 active:scale-95 transition" title="উপরে যান">
+    <button id="scrollTopBtn" onclick="window.scrollTo({ top: 0, behavior: 'smooth' })" class="fixed bottom-5 right-5 hidden z-40 h-11 w-11 rounded-full bg-gradient-to-tr from-indigo-600 to-purple-600 text-white font-bold shadow-xl shadow-indigo-600/30 flex items-center justify-center hover:scale-105 active:scale-95 transition cursor-pointer" title="উপরে যান">
       ↑
     </button>
   </div>
 
-  <!-- Roadmap Modal -->
+  <!-- Full 1-Page Monetization Roadmap Modal -->
   <div id="roadmapModal" class="fixed inset-0 bg-black/85 backdrop-blur-md z-50 hidden flex items-center justify-center p-3 sm:p-6">
     <div class="bg-[#0e1424] border border-amber-500/40 rounded-3xl max-w-2xl w-full max-h-[90vh] flex flex-col overflow-hidden shadow-2xl">
       <div class="p-4 sm:p-5 border-b border-slate-800 flex items-center justify-between bg-[#0a0f1d]">
         <div class="flex items-center gap-2.5">
           <div class="h-8 w-8 rounded-lg bg-amber-500/20 text-amber-400 flex items-center justify-center font-bold text-base border border-amber-500/30">💰</div>
           <div>
-            <h3 class="text-sm sm:text-base font-bold text-white">১-পৃষ্ঠার রিলস মানিটাইজেশন রোডম্যাপ</h3>
-            <p class="text-[11px] text-slate-400">রিলস থেকে স্পনসরশিপ, ব্র্যান্ড ডিল ও বোনাস আয়ের শর্টকাট গাইড</p>
+            <h3 class="text-sm sm:text-base font-bold text-white">১-পৃষ্ঠার পূর্ণাঙ্গ রিলস মানিটাইজেশন রোডম্যাপ</h3>
+            <p class="text-[11px] text-slate-400">রিলস থেকে ফেসবুক বোনাস, স্পনসরশিপ ও ব্র্যান্ড ডিল আয়ের ফ্রেমওয়ার্ক</p>
           </div>
         </div>
         <button onclick="closeRoadmapModal()" class="text-slate-400 hover:text-white text-xl font-bold p-1 cursor-pointer">✕</button>
       </div>
+      
       <div class="p-5 sm:p-6 overflow-y-auto space-y-4 text-xs leading-relaxed custom-scroll">
+        <!-- Stage 1 -->
         <div class="bg-[#070b14] p-4 rounded-2xl border border-slate-800">
-          <h4 class="font-bold text-amber-400 text-sm mb-1">১. ফেসবুক ও ইনস্টাগ্রাম বোনাস প্রোগ্রাম:</h4>
-          <p class="text-slate-300">প্রতিদিন নিয়মিত ২ টি করে রিলস পোস্ট করুন এবং এনগেজমেন্ট বাড়ান।</p>
+          <div class="flex items-center justify-between mb-1.5">
+            <h4 class="font-bold text-amber-400 text-sm">১. ফেসবুক ও ইনস্টাগ্রাম বোনাস প্রোগ্রাম আনলক</h4>
+            <span class="text-[10px] bg-amber-500/20 text-amber-300 px-2 py-0.5 rounded border border-amber-500/30 font-semibold">Stage 1</span>
+          </div>
+          <p class="text-slate-300 mb-2">ফেসবুক প্রফেশনাল মোডে <b>Performance Bonus</b> এবং <b>Reels Overlay Ads</b> পেতে নিচের নিয়মগুলো ফলো করুন:</p>
+          <ul class="list-disc pl-4 text-slate-400 space-y-1">
+            <li>একটানা ৩০ দিন প্রতিদিন অন্তত ২টি করে রিলস পোস্ট করুন (দৈর্ঘ্য ১৫-২২ সেকেন্ডের মধ্যে রাখা সেরা)।</li>
+            <li>সব ভিডিওতে ট্রেন্ডিং অডিও ব্যবহার করুন এবং ক্যাপশনে ৫-৭টি প্রাসঙ্গিক নিশ হ্যাশট্যাগ দিন।</li>
+            <li>প্রথম ৩ সেকেন্ডের হুক জোরদার রাখুন যেন অডিয়েন্স রিটেনশন ৬০%-এর উপরে থাকে।</li>
+          </ul>
+        </div>
+
+        <!-- Stage 2 -->
+        <div class="bg-[#070b14] p-4 rounded-2xl border border-slate-800">
+          <div class="flex items-center justify-between mb-1.5">
+            <h4 class="font-bold text-indigo-400 text-sm">২. প্রথম ৫,০০০ ফলোয়ারে স্পনসরশিপ ও ব্র্যান্ড ডিল</h4>
+            <span class="text-[10px] bg-indigo-500/20 text-indigo-300 px-2 py-0.5 rounded border border-indigo-500/30 font-semibold">Stage 2</span>
+          </div>
+          <p class="text-slate-300 mb-2">ব্র্যান্ডগুলো বেশি ফলোয়ার নয়, ভালো এনগেজমেন্ট এবং নির্দিষ্ট অডিয়েন্স খোঁজে:</p>
+          <ul class="list-disc pl-4 text-slate-400 space-y-1">
+            <li>বায়োতে সর্বদা প্রফেশনাল ইমেইল যোগ করুন: <i>"For Sponsorship / Collab: yourbrand@gmail.com"</i></li>
+            <li>যেকোনো এআই টুল বা গ্যাজেট নিয়ে রিল বানিয়ে কোম্পানিকে ট্যাগ করুন।</li>
+            <li><b>কোল্ড ইমেইল পিচ টেমপ্লেট:</b> <i>"Hi [Brand Team], I run a viral AI Shorts page with [X]k monthly views focused on [Niche]. I'd love to integrate your tool in my next reel. Let me know if you are open to collaborate!"</i></li>
+          </ul>
+        </div>
+
+        <!-- Stage 3 -->
+        <div class="bg-[#070b14] p-4 rounded-2xl border border-slate-800">
+          <div class="flex items-center justify-between mb-1.5">
+            <h4 class="font-bold text-emerald-400 text-sm">৩. অ্যাফিলিয়েট ও ডিজিটাল বান্ডেল সেলস (দৈনিক প্যাসিভ ইনকাম)</h4>
+            <span class="text-[10px] bg-emerald-500/20 text-emerald-300 px-2 py-0.5 rounded border border-emerald-500/30 font-semibold">Stage 3</span>
+          </div>
+          <ul class="list-disc pl-4 text-slate-400 space-y-1">
+            <li>ভিডিওর শেষে শেষ ৩ সেকেন্ডে একটি স্পষ্ট Call To Action (CTA) দিন: "সম্পূর্ণ প্রম্পট পেতে বায়ো লিংকে যান"।</li>
+            <li>বায়োতে Gumroad, Stan Store অথবা একটি সরাসরি হোয়াটসঅ্যাপ বা বিকাশের মাধ্যমে প্রম্পট বান্ডেল/কোর্স সেল করে প্রতি মাসে ১৫,০০০ - ৫০,০০০ টাকা আয় সম্ভব।</li>
+          </ul>
+        </div>
+
+        <div class="p-3 bg-amber-500/10 border border-amber-500/30 rounded-xl text-amber-300 text-[11px]">
+          ⚡ <b>দৈনিক চেকলিস্ট:</b> প্রতিদিন সকালে ১টি ও সন্ধ্যায় ১টি রিল পোস্ট + প্রথম ১ ঘণ্টায় সব কমেন্টের উত্তর দেওয়া।
         </div>
       </div>
+
       <div class="p-4 border-t border-slate-800 bg-[#0a0f1d] flex justify-end">
-        <button onclick="closeRoadmapModal()" class="px-5 py-2 bg-amber-600 rounded-xl text-xs font-bold text-white">বুঝেছি ✓</button>
+        <button onclick="closeRoadmapModal()" class="px-5 py-2 bg-gradient-to-r from-amber-600 to-amber-500 rounded-xl text-xs font-bold text-white shadow-lg cursor-pointer">রোডম্যাপ বুঝেছি ✓</button>
       </div>
     </div>
   </div>
 
-  <!-- Sounds Modal -->
+  <!-- Full Top Viral Sounds Hub Modal -->
   <div id="soundsModal" class="fixed inset-0 bg-black/85 backdrop-blur-md z-50 hidden flex items-center justify-center p-3 sm:p-6">
     <div class="bg-[#0e1424] border border-rose-500/40 rounded-3xl max-w-2xl w-full max-h-[90vh] flex flex-col overflow-hidden shadow-2xl">
       <div class="p-4 sm:p-5 border-b border-slate-800 flex items-center justify-between bg-[#0a0f1d]">
         <div class="flex items-center gap-2.5">
           <div class="h-8 w-8 rounded-lg bg-rose-500/20 text-rose-400 flex items-center justify-center font-bold text-base border border-rose-500/30">🎵</div>
           <div>
-            <h3 class="text-sm sm:text-base font-bold text-white">Top 100 Viral Sound Shortcuts</h3>
-            <p class="text-[11px] text-slate-400">ট্রেন্ডিং অডিও লিংক</p>
+            <h3 class="text-sm sm:text-base font-bold text-white">Top Trending Viral Sounds Hub</h3>
+            <p class="text-[11px] text-slate-400">১ ক্লিকে ট্রেন্ডিং অডিও পেজে যান অথবা সাউন্ডের নাম কপি করে অ্যাপে ব্যবহার করুন</p>
           </div>
         </div>
         <button onclick="closeSoundsModal()" class="text-slate-400 hover:text-white text-xl font-bold p-1 cursor-pointer">✕</button>
       </div>
-      <div class="p-4 sm:p-6 overflow-y-auto space-y-3.5 text-xs leading-relaxed custom-scroll">
-        <div class="bg-[#070b14] p-3 rounded-xl border border-slate-800 flex items-center justify-between">
-          <div><div class="font-bold text-white text-xs">🔥 Phonk Suspense</div></div>
-          <a href="https://www.instagram.com/reels/audio/" target="_blank" class="px-2.5 py-1.5 bg-rose-600 rounded-lg text-xs font-bold text-white">অডিও ↗</a>
+
+      <div class="p-4 sm:p-6 overflow-y-auto space-y-3 text-xs leading-relaxed custom-scroll">
+        <div class="p-2.5 bg-rose-500/10 border border-rose-500/20 rounded-xl text-rose-300 text-[11px]">
+          💡 <b>প্রো-টিপ:</b> ভিডিও আপলোডের সময় ইনস্টাগ্রাম/টিকটকে এই সাউন্ডগুলো অ্যাড করে সাউন্ডের ভলিউম ৩%-এ নামিয়ে নিজের ভয়েস ১০০% রাখলে অ্যালগরিদম ভিডিও ভাইরাল করে।
+        </div>
+
+        <!-- Audio 1 -->
+        <div class="bg-[#070b14] p-3 rounded-xl border border-slate-800 flex flex-col sm:flex-row sm:items-center justify-between gap-2.5">
+          <div>
+            <div class="font-bold text-white text-xs flex items-center gap-1.5">
+              <span>🔥 Phonk Suspense (Slowed + Reverb)</span>
+              <span class="text-[9px] bg-rose-500/20 text-rose-300 px-1.5 py-0.2 rounded">1.2M Reels</span>
+            </div>
+            <p class="text-[10.5px] text-slate-400 mt-0.5">হরর, ডার্ক রহস্য, অদ্ভুত সত্য ও থ্রিলার কিটের জন্য</p>
+          </div>
+          <div class="flex items-center gap-1.5 shrink-0">
+            <button onclick="navigator.clipboard.writeText('Phonk Suspense Slowed'); showToast('নাম কপি হয়েছে!');" class="px-2 py-1.5 bg-slate-800 hover:bg-slate-700 rounded-lg text-[10px] font-bold text-slate-300 cursor-pointer">📋 নাম কপি</button>
+            <a href="https://www.instagram.com/reels/audio/" target="_blank" class="px-2.5 py-1.5 bg-gradient-to-r from-pink-600 to-rose-600 hover:opacity-90 rounded-lg text-[10.5px] font-bold text-white">ইনস্টাগ্রাম অডিও ↗</a>
+          </div>
+        </div>
+
+        <!-- Audio 2 -->
+        <div class="bg-[#070b14] p-3 rounded-xl border border-slate-800 flex flex-col sm:flex-row sm:items-center justify-between gap-2.5">
+          <div>
+            <div class="font-bold text-white text-xs flex items-center gap-1.5">
+              <span>🧸 Cute Playful Whistle & Bounce</span>
+              <span class="text-[9px] bg-indigo-500/20 text-indigo-300 px-1.5 py-0.2 rounded">850k Reels</span>
+            </div>
+            <p class="text-[10.5px] text-slate-400 mt-0.5">বাচ্চা ক্যারেক্টার, কিউট প্রাণী ও কমেডি অ্যানিমেশন সিন</p>
+          </div>
+          <div class="flex items-center gap-1.5 shrink-0">
+            <button onclick="navigator.clipboard.writeText('Funny Cute Whistle Kids Comedy'); showToast('নাম কপি হয়েছে!');" class="px-2 py-1.5 bg-slate-800 hover:bg-slate-700 rounded-lg text-[10px] font-bold text-slate-300 cursor-pointer">📋 নাম কপি</button>
+            <a href="https://www.instagram.com/reels/audio/" target="_blank" class="px-2.5 py-1.5 bg-gradient-to-r from-pink-600 to-rose-600 hover:opacity-90 rounded-lg text-[10.5px] font-bold text-white">ইনস্টাগ্রাম অডিও ↗</a>
+          </div>
+        </div>
+
+        <!-- Audio 3 -->
+        <div class="bg-[#070b14] p-3 rounded-xl border border-slate-800 flex flex-col sm:flex-row sm:items-center justify-between gap-2.5">
+          <div>
+            <div class="font-bold text-white text-xs flex items-center gap-1.5">
+              <span>🚀 Deep Space Ambient & Interstellar Echo</span>
+              <span class="text-[9px] bg-purple-500/20 text-purple-300 px-1.5 py-0.2 rounded">620k Reels</span>
+            </div>
+            <p class="text-[10.5px] text-slate-400 mt-0.5">মহাকাশ, ব্ল্যাকহোল, ভবিষ্যৎ প্রযুক্তি ও সায়েন্স ফ্যাক্টস</p>
+          </div>
+          <div class="flex items-center gap-1.5 shrink-0">
+            <button onclick="navigator.clipboard.writeText('Interstellar Space Cinematic Drone'); showToast('নাম কপি হয়েছে!');" class="px-2 py-1.5 bg-slate-800 hover:bg-slate-700 rounded-lg text-[10px] font-bold text-slate-300 cursor-pointer">📋 নাম কপি</button>
+            <a href="https://www.instagram.com/reels/audio/" target="_blank" class="px-2.5 py-1.5 bg-gradient-to-r from-pink-600 to-rose-600 hover:opacity-90 rounded-lg text-[10.5px] font-bold text-white">ইনস্টাগ্রাম অডিও ↗</a>
+          </div>
+        </div>
+
+        <!-- Audio 4 -->
+        <div class="bg-[#070b14] p-3 rounded-xl border border-slate-800 flex flex-col sm:flex-row sm:items-center justify-between gap-2.5">
+          <div>
+            <div class="font-bold text-white text-xs flex items-center gap-1.5">
+              <span>🧠 Dark Psychology Hypnotic Piano</span>
+              <span class="text-[9px] bg-emerald-500/20 text-emerald-300 px-1.5 py-0.2 rounded">980k Reels</span>
+            </div>
+            <p class="text-[10.5px] text-slate-400 mt-0.5">মানুষের সাইকোলজি, মাইন্ড গেমস ও ডার্ক ম্যানিপুলেশন ফ্যাক্টস</p>
+          </div>
+          <div class="flex items-center gap-1.5 shrink-0">
+            <button onclick="navigator.clipboard.writeText('Dark Psychology Hypnotic Piano'); showToast('নাম কপি হয়েছে!');" class="px-2 py-1.5 bg-slate-800 hover:bg-slate-700 rounded-lg text-[10px] font-bold text-slate-300 cursor-pointer">📋 নাম কপি</button>
+            <a href="https://www.instagram.com/reels/audio/" target="_blank" class="px-2.5 py-1.5 bg-gradient-to-r from-pink-600 to-rose-600 hover:opacity-90 rounded-lg text-[10.5px] font-bold text-white">ইনস্টাগ্রাম অডিও ↗</a>
+          </div>
+        </div>
+
+        <!-- Global Charts -->
+        <div class="p-3 bg-slate-900 border border-slate-800 rounded-xl flex items-center justify-between mt-2">
+          <span class="text-slate-300 font-semibold text-[11px]">🌐 টিকটক অফিশিয়াল ট্রেন্ডিং মিউজিক ডিরেক্টরি:</span>
+          <a href="https://ads.tiktok.com/business/creativecenter/music/pc/en" target="_blank" class="text-indigo-400 hover:underline font-bold text-xs">TikTok Creative Center ↗</a>
         </div>
       </div>
+
       <div class="p-4 border-t border-slate-800 bg-[#0a0f1d] flex justify-end">
-        <button onclick="closeSoundsModal()" class="px-5 py-2 bg-slate-800 rounded-xl text-xs font-bold text-white">বন্ধ করুন</button>
+        <button onclick="closeSoundsModal()" class="px-5 py-2 bg-slate-800 hover:bg-slate-700 rounded-xl text-xs font-bold text-white cursor-pointer">বন্ধ করুন</button>
       </div>
     </div>
   </div>
 
-  <!-- Guide Modal -->
+  <!-- Full Video Making Guide Modal -->
   <div id="guideModal" class="fixed inset-0 bg-black/85 backdrop-blur-md z-50 hidden flex items-center justify-center p-3 sm:p-6">
     <div class="bg-[#0e1424] border border-slate-700/80 rounded-3xl max-w-2xl w-full max-h-[90vh] flex flex-col overflow-hidden shadow-2xl">
       <div class="p-4 sm:p-5 border-b border-slate-800 flex items-center justify-between bg-[#0a0f1d]">
         <div class="flex items-center gap-2.5">
           <div class="h-8 w-8 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-base border border-emerald-500/30">🎬</div>
           <div>
-            <h3 class="text-sm sm:text-base font-bold text-white">ভিডিও তৈরির গাইড</h3>
-            <p class="text-[11px] text-slate-400">ধাপসমূহ</p>
+            <h3 class="text-sm sm:text-base font-bold text-white">৫ মিনিটে ফুল এআই রিল তৈরির প্রফেশনাল গাইড</h3>
+            <p class="text-[11px] text-slate-400">মোবাইল দিয়ে ফ্রিতে ফুল ভাইরাল ভিডিও বানানোর স্টেপ-বাই-স্টেপ নিয়ম</p>
           </div>
         </div>
         <button onclick="closeGuideModal()" class="text-slate-400 hover:text-white text-xl font-bold p-1 cursor-pointer">✕</button>
       </div>
+
       <div class="p-5 sm:p-6 overflow-y-auto space-y-4 text-xs leading-relaxed custom-scroll">
         <div class="bg-[#070b14] p-4 rounded-2xl border border-slate-800">
-          <h4 class="font-bold text-emerald-400 text-sm mb-1.5">১. ভয়েসওভার তৈরি ও প্রম্পট কপি</h4>
-          <p class="text-slate-300">সংলাপ এবং প্রম্পট কপি করে ভিডিও এডিটর বা এআই টুলে ব্যবহার করুন।</p>
+          <h4 class="font-bold text-amber-400 text-sm mb-1.5 flex items-center gap-1.5">
+            <span>ধাপ ১: হাই-কোয়ালিটি ভয়েসওভার তৈরি</span>
+          </h4>
+          <p class="text-slate-300">যেকোনো কিট থেকে <b class="text-white">"কপি সংলাপ"</b> বাটনে চাপ দিয়ে স্ক্রিপ্ট কপি করুন। তারপর <a href="https://try.elevenlabs.io/b25y3lwdnnss" target="_blank" class="text-emerald-400 font-bold underline">ElevenLabs</a> বা Clipchamp-এ গিয়ে পেস্ট করে ফ্রিতে প্রফেশনাল বাংলা ভয়েস MP3 ডাউনলোড করুন।</p>
+        </div>
+
+        <div class="bg-[#070b14] p-4 rounded-2xl border border-slate-800">
+          <h4 class="font-bold text-indigo-400 text-sm mb-1.5 flex items-center gap-1.5">
+            <span>ধাপ ২: প্রম্পট দিয়ে এআই ভিডিও ক্লিপস তৈরি</span>
+          </h4>
+          <p class="text-slate-300">প্রতিটি সিনের <b class="text-white">"Copy Prompt"</b> বাটনে ক্লিক করে <a href="https://klingai.com" target="_blank" class="text-indigo-400 underline font-semibold">Kling AI</a>, Hailuo AI অথবা <a href="https://gemini.google.com" target="_blank" class="text-purple-400 underline font-semibold">Gemini</a>-তে পেস্ট করুন। ৩-৫ সেকেন্ডের আল্ট্রা-রিয়েলিস্টিক 9:16 ক্লিপ জেনারেট করে সেভ করুন।</p>
+        </div>
+
+        <div class="bg-[#070b14] p-4 rounded-2xl border border-slate-800">
+          <h4 class="font-bold text-purple-400 text-sm mb-1.5 flex items-center gap-1.5">
+            <span>ধাপ ৩: ক্যাপকাট (CapCut) মোবাইল এডিটিং</span>
+          </h4>
+          <p class="text-slate-300">CapCut ওপেন করে ভয়েসওভার ও ভিডিও ক্লিপগুলো সাজান। এরপর <b>"Text -> Auto Captions"</b> দিয়ে বাংলা বা ইংলিশ সাবটাইটেল বসিয়ে ফন্ট কালার ইয়েলো বা বোল্ড হোয়াইট করে এক্সপোর্ট করুন।</p>
         </div>
       </div>
+
       <div class="p-4 border-t border-slate-800 bg-[#0a0f1d] flex justify-end">
-        <button onclick="closeGuideModal()" class="px-5 py-2 bg-indigo-600 rounded-xl text-xs font-bold text-white">বুঝেছি 🚀</button>
+        <button onclick="closeGuideModal()" class="px-5 py-2 bg-gradient-to-r from-indigo-600 to-purple-600 rounded-xl text-xs font-bold text-white shadow-lg cursor-pointer">বুঝেছি, এডিটিং শুরু করি 🚀</button>
       </div>
     </div>
   </div>
@@ -453,8 +582,7 @@
     }
 
     function checkAndAutoUnlock() {
-      var currentDevId = getDeviceId();
-      var isUnlocked = localStorage.getItem('creator_is_unlocked');
+      var isUnlocked = localStorage.getItem('creator_is_unlocked') || sessionStorage.getItem('creator_is_unlocked');
       var savedKey = localStorage.getItem('creator_saved_activation_key');
 
       if (isUnlocked === 'true' && savedKey && verifyActivationKey(savedKey)) {
@@ -493,7 +621,6 @@
           btn.classList.add('!bg-emerald-600');
         }
 
-        // Key shobshomoy localStorage-e save thakbe
         localStorage.setItem('creator_saved_activation_key', val);
 
         if (rememberChk && rememberChk.checked) {
@@ -522,15 +649,15 @@
     }
 
     function logoutDashboard() {
-      // Logout korle shudhu unlock status clear hobe, kintu key localStorage-e theke jabe
       localStorage.removeItem('creator_is_unlocked');
       sessionStorage.removeItem('creator_is_unlocked');
-
       showLockScreenUI();
     }
 
+    /* Data & Rendering logic with High-Performance Pagination */
     var activeCategory = "all";
     var currentFiltered = [];
+    var visibleCount = 20; // Pagination batch size
 
     if (!window.bundleData || !Array.isArray(window.bundleData) || window.bundleData.length === 0) {
       window.bundleData = [
@@ -606,12 +733,13 @@
 
     function switchCategory(catKey, btn) {
       activeCategory = catKey;
+      visibleCount = 20; // Reset batch on switch
       var tabs = document.querySelectorAll('.tab-pill');
       for (var i = 0; i < tabs.length; i++) {
-        tabs[i].className = "tab-pill shrink-0 px-3.5 py-2 rounded-xl text-xs font-bold flex items-center gap-2";
+        tabs[i].className = "tab-pill shrink-0 px-3.5 py-2 rounded-xl text-xs font-bold flex items-center gap-2 cursor-pointer";
       }
       if (btn) {
-        btn.className = "tab-pill active shrink-0 px-3.5 py-2 rounded-xl text-xs font-bold flex items-center gap-2";
+        btn.className = "tab-pill active shrink-0 px-3.5 py-2 rounded-xl text-xs font-bold flex items-center gap-2 cursor-pointer";
       }
       handleFilter();
     }
@@ -660,11 +788,13 @@
         }
         if (inTitle || inTagline || inScenes) currentFiltered.push(item);
       }
+      
       renderCards(currentFiltered);
     }
 
     function renderCards(data) {
       var container = document.getElementById('cardsGrid');
+      var loadMoreBox = document.getElementById('loadMoreContainer');
       if (!container) return;
       var saved = getSavedKitIds();
 
@@ -673,12 +803,15 @@
 
       if (!data || data.length === 0) {
         container.innerHTML = '<div class="col-span-full py-16 text-center text-slate-400 text-xs sm:text-sm">কোনো কিট পাওয়া যায়নি!</div>';
+        if (loadMoreBox) loadMoreBox.classList.add('hidden');
         return;
       }
 
+      var displayList = data.slice(0, visibleCount);
       var html = '';
-      for (var i = 0; i < data.length; i++) {
-        var item = data[i];
+
+      for (var i = 0; i < displayList.length; i++) {
+        var item = displayList[i];
         var isSaved = saved.indexOf(item.id) > -1;
         var scenes = item.scenes || [];
         var isTrending = item.isTrending || (i % 3 === 0);
@@ -696,9 +829,9 @@
             (sc.dialogue ? '<p class="text-xs text-slate-100 font-medium mb-3 leading-relaxed bg-[#0b101c] p-2.5 rounded-lg border border-slate-800">"' + sc.dialogue + '"</p>' : '') +
             '<div class="relative bg-[#060a14] p-2.5 rounded-lg border border-indigo-900/60">' +
               '<p class="text-[10.5px] font-mono text-indigo-200 leading-relaxed line-clamp-3 select-all">' + activePrompt + '</p>' +
-              '<div class="mt-2.5 flex items-center gap-1.5">' +
-                '<button onclick="copyPrompt(' + i + ',' + s + ', this)" class="flex-1 bg-indigo-600/20 hover:bg-indigo-600 text-indigo-200 hover:text-white py-1.5 rounded-lg text-[11px] font-bold transition flex items-center justify-center gap-1 border border-indigo-500/40 cursor-pointer">🎥 Copy Prompt</button>' +
-                '<a href="https://try.elevenlabs.io/b25y3lwdnnss" target="_blank" class="bg-gradient-to-r from-emerald-600/30 to-teal-600/30 hover:from-emerald-600 hover:to-teal-600 text-emerald-300 hover:text-white text-[10px] font-bold px-2 py-1.5 rounded-lg border border-emerald-500/40 transition">🎙️ Voice (ElevenLabs)</a>' +
+              '<div class="mt-2.5 flex items-center gap-1.5 flex-wrap">' +
+                '<button onclick="copyPrompt(' + i + ',' + s + ', this)" class="flex-1 min-w-[100px] bg-indigo-600/20 hover:bg-indigo-600 text-indigo-200 hover:text-white py-1.5 rounded-lg text-[11px] font-bold transition flex items-center justify-center gap-1 border border-indigo-500/40 cursor-pointer">🎥 Copy Prompt</button>' +
+                '<a href="https://try.elevenlabs.io/b25y3lwdnnss" target="_blank" class="bg-gradient-to-r from-emerald-600/30 to-teal-600/30 hover:from-emerald-600 hover:to-teal-600 text-emerald-300 hover:text-white text-[10px] font-bold px-2 py-1.5 rounded-lg border border-emerald-500/40 transition">🎙️ ElevenLabs</a>' +
                 '<a href="https://klingai.com" target="_blank" class="bg-slate-800/80 hover:bg-slate-700 text-slate-200 text-[10px] font-bold px-2 py-1.5 rounded-lg border border-slate-700 transition">Kling</a>' +
                 '<a href="https://gemini.google.com" target="_blank" class="bg-slate-800/80 hover:bg-slate-700 text-slate-200 text-[10px] font-bold px-2 py-1.5 rounded-lg border border-slate-700 transition">Gemini</a>' +
               '</div>' +
@@ -727,7 +860,22 @@
           '</div>' +
         '</div>';
       }
+
       container.innerHTML = html;
+
+      // Show/Hide Load More Button
+      if (loadMoreBox) {
+        if (visibleCount < data.length) {
+          loadMoreBox.classList.remove('hidden');
+        } else {
+          loadMoreBox.classList.add('hidden');
+        }
+      }
+    }
+
+    function loadMoreCards() {
+      visibleCount += 20;
+      renderCards(currentFiltered);
     }
 
     function copyDialogue(itemIdx, sceneIdx, btn) {
@@ -747,6 +895,7 @@
     function copyFullKit(itemIdx, btn) {
       var item = currentFiltered[itemIdx];
       if (!item) return;
+
       var text = '[Title: ' + item.title + ']\n';
       if (item.scenes) {
         for (var i = 0; i < item.scenes.length; i++) {
@@ -763,6 +912,15 @@
         if (e.key === 'Enter') { e.preventDefault(); unlockDashboard(); }
       });
     }
+
+    // Scroll to Top visibility toggle
+    window.addEventListener('scroll', function() {
+      var btn = document.getElementById('scrollTopBtn');
+      if (btn) {
+        if (window.scrollY > 300) btn.classList.remove('hidden');
+        else btn.classList.add('hidden');
+      }
+    });
 
     window.addEventListener('DOMContentLoaded', function() {
       setupLockScreen();
