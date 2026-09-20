@@ -89,14 +89,24 @@
         <div class="text-lg font-mono font-extrabold text-indigo-300 tracking-widest" id="displayDeviceId">DEV-0000</div>
       </div>
 
-      <!-- Activation Key Input -->
+      <!-- Activation Key Input with Show / Hide Toggle -->
       <div class="relative mb-3">
         <input 
-          type="text" 
+          type="password" 
           id="passInput" 
           placeholder="অ্যাক্টিভেশন কি লিখুন..." 
-          class="w-full bg-[#070a13] border border-slate-700/80 rounded-xl px-4 py-3 text-sm text-center font-mono text-white placeholder-slate-500 focus:outline-none focus:border-indigo-500 transition tracking-widest"
+          class="w-full bg-[#070a13] border border-slate-700/80 rounded-xl pl-10 pr-11 py-3 text-sm text-center font-mono text-white placeholder-slate-500 focus:outline-none focus:border-indigo-500 transition tracking-widest"
         >
+        <!-- Toggle Show/Hide Button -->
+        <button 
+          type="button" 
+          id="togglePassBtn"
+          onclick="toggleKeyVisibility()" 
+          class="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-indigo-300 p-1.5 transition cursor-pointer flex items-center justify-center select-none"
+          title="কোড দেখুন / লুকান"
+        >
+          <span id="eyeIcon" class="text-base">👁️</span>
+        </button>
       </div>
 
       <!-- Remember Me Checkbox Option -->
@@ -380,7 +390,7 @@
           </div>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 text-slate-300">
             <div class="bg-[#060912] p-3 rounded-xl border border-slate-800">
-              <div class="font-bold text-white text-xs mb-1">🔗 বায়ো লিংক ফানেল:</div>
+              <div class="font-bold text-white text-xs mb-1">🔗 বায়ো লিংক ফানেল:</div>
               <p class="text-[11px] text-slate-400 leading-relaxed">ভিডিওর শেষ ২ সেকেন্ডে স্পষ্ট CTA দিন: <i>"সম্পূর্ণ প্রম্পট পেতে বায়ো লিংকে যান।"</i> বায়োতে Gumroad বা WhatsApp লিংক দিয়ে বান্ডেল সেল করুন।</p>
             </div>
             <div class="bg-[#060912] p-3 rounded-xl border border-slate-800">
@@ -437,7 +447,7 @@
         <div class="p-3 bg-rose-500/10 border border-rose-500/20 rounded-2xl text-rose-300 text-[11px] flex items-center gap-2.5">
           <span class="text-base">💡</span>
           <div>
-            <b>অ্যালগরিদম হ্যাক:</b> ক্যাপকাট থেকে মিউজিকের সাউন্ড লেভেল কমিয়ে ৩% দিন এবং রিলস আপলোডের সময় ইনস্টাগ্রাম/টিকটক থেকে সরাসরি সাউন্ডটি অ্যাড করুন। এতে ভিডিও অর্গানিক ট্রাফিকে ঢুকে যায়।
+            <b>অ্যালগরিদম হ্যাক:</b> ক্যাপকাট থেকে মিউজিকের সাউন্ড লেভেল কমিয়ে ৩% দিন এবং রিলস আপলোডের সময় ইনস্টাগ্রাম/টিকটক থেকে সরাসরি সাউন্ডটি অ্যাড করুন। এতে ভিডিও অর্গানিক ট্রাফিকে ঢুকে যায়।
           </div>
         </div>
 
@@ -456,7 +466,7 @@
             </div>
           </div>
           <div class="flex items-center gap-2 shrink-0 self-end sm:self-center">
-            <button onclick="navigator.clipboard.writeText('Phonk Suspense Mystery Bass Slowed'); showToast('সাউন্ড নাম কপি হয়েছে!');" class="px-2.5 py-1.5 bg-slate-800 hover:bg-slate-700 rounded-lg text-[10.5px] font-bold text-slate-200 cursor-pointer transition border border-slate-700">📋 কপি নাম</button>
+            <button onclick="navigator.clipboard.writeText('Phonk Suspense Mystery Bass Slowed'); showToast('সাউন্ড নাম কপি হয়েছে!');" class="px-2.5 py-1.5 bg-slate-800 hover:bg-slate-700 rounded-lg text-[10.5px] font-bold text-slate-200 cursor-pointer transition border border-slate-700">📋 কপি নাম</button>
             <a href="https://www.instagram.com/reels/audio/" target="_blank" class="px-3 py-1.5 bg-gradient-to-r from-pink-600 to-rose-600 hover:opacity-90 rounded-lg text-[10.5px] font-bold text-white shadow-sm transition">ইনস্টাগ্রাম অডিও ↗</a>
           </div>
         </div>
@@ -476,7 +486,7 @@
             </div>
           </div>
           <div class="flex items-center gap-2 shrink-0 self-end sm:self-center">
-            <button onclick="navigator.clipboard.writeText('Funny Cute Whistle Comedy Bounce'); showToast('সাউন্ড নাম কপি হয়েছে!');" class="px-2.5 py-1.5 bg-slate-800 hover:bg-slate-700 rounded-lg text-[10.5px] font-bold text-slate-200 cursor-pointer transition border border-slate-700">📋 কপি নাম</button>
+            <button onclick="navigator.clipboard.writeText('Funny Cute Whistle Comedy Bounce'); showToast('সাউন্ড নাম কপি হয়েছে!');" class="px-2.5 py-1.5 bg-slate-800 hover:bg-slate-700 rounded-lg text-[10.5px] font-bold text-slate-200 cursor-pointer transition border border-slate-700">📋 কপি নাম</button>
             <a href="https://www.instagram.com/reels/audio/" target="_blank" class="px-3 py-1.5 bg-gradient-to-r from-pink-600 to-rose-600 hover:opacity-90 rounded-lg text-[10.5px] font-bold text-white shadow-sm transition">ইনস্টাগ্রাম অডিও ↗</a>
           </div>
         </div>
@@ -496,7 +506,7 @@
             </div>
           </div>
           <div class="flex items-center gap-2 shrink-0 self-end sm:self-center">
-            <button onclick="navigator.clipboard.writeText('Interstellar Cinematic Ambient Drone'); showToast('সাউন্ড নাম কপি হয়েছে!');" class="px-2.5 py-1.5 bg-slate-800 hover:bg-slate-700 rounded-lg text-[10.5px] font-bold text-slate-200 cursor-pointer transition border border-slate-700">📋 কপি নাম</button>
+            <button onclick="navigator.clipboard.writeText('Interstellar Cinematic Ambient Drone'); showToast('সাউন্ড নাম কপি হয়েছে!');" class="px-2.5 py-1.5 bg-slate-800 hover:bg-slate-700 rounded-lg text-[10.5px] font-bold text-slate-200 cursor-pointer transition border border-slate-700">📋 কপি নাম</button>
             <a href="https://www.instagram.com/reels/audio/" target="_blank" class="px-3 py-1.5 bg-gradient-to-r from-pink-600 to-rose-600 hover:opacity-90 rounded-lg text-[10.5px] font-bold text-white shadow-sm transition">ইনস্টাগ্রাম অডিও ↗</a>
           </div>
         </div>
@@ -512,11 +522,11 @@
                 <span class="font-bold text-white text-xs sm:text-sm">Dark Psychology Hypnotic Piano & Reverb</span>
                 <span class="bg-emerald-500/20 text-emerald-300 text-[9.5px] font-bold px-2 py-0.2 rounded-full border border-emerald-500/30">1.1M Reels</span>
               </div>
-              <p class="text-[11px] text-slate-400 mt-0.5">ডার্ক সাইকোলজি, মোটিভেশনাল টেক্সট ও মানুষের মনস্তত্ত্ব বিষয়ক ভিডিওতে সেরা।</p>
+              <p class="text-[11px] text-slate-400 mt-0.5">ডার্ক সাইকোলজি, মোটিভেশনাল টেক্সট ও মানুষের মনস্তত্ত্ব বিষয়ক ভিডিওতে সেরা।</p>
             </div>
           </div>
           <div class="flex items-center gap-2 shrink-0 self-end sm:self-center">
-            <button onclick="navigator.clipboard.writeText('Dark Psychology Piano Instrumental'); showToast('সাউন্ড নাম কপি হয়েছে!');" class="px-2.5 py-1.5 bg-slate-800 hover:bg-slate-700 rounded-lg text-[10.5px] font-bold text-slate-200 cursor-pointer transition border border-slate-700">📋 কপি নাম</button>
+            <button onclick="navigator.clipboard.writeText('Dark Psychology Piano Instrumental'); showToast('সাউন্ড নাম কপি হয়েছে!');" class="px-2.5 py-1.5 bg-slate-800 hover:bg-slate-700 rounded-lg text-[10.5px] font-bold text-slate-200 cursor-pointer transition border border-slate-700">📋 কপি নাম</button>
             <a href="https://www.instagram.com/reels/audio/" target="_blank" class="px-3 py-1.5 bg-gradient-to-r from-pink-600 to-rose-600 hover:opacity-90 rounded-lg text-[10.5px] font-bold text-white shadow-sm transition">ইনস্টাগ্রাম অডিও ↗</a>
           </div>
         </div>
@@ -525,7 +535,7 @@
         <div class="p-3.5 bg-[#050811] border border-slate-800 rounded-2xl flex flex-col sm:flex-row items-center justify-between gap-2.5">
           <div class="flex items-center gap-2">
             <span class="text-base">🌐</span>
-            <span class="text-slate-300 font-semibold text-xs">টিকটকের অফিশিয়াল লাইভ ট্রেন্ডিং মিউজিক ডিরেক্টরি:</span>
+            <span class="text-slate-300 font-semibold text-xs">টিকটকের অফিশিয়াল লাইভ ট্রেন্ডিং মিউজিক ডিরেক্টরি:</span>
           </div>
           <a href="https://ads.tiktok.com/business/creativecenter/music/pc/en" target="_blank" class="text-indigo-400 hover:text-indigo-300 font-bold text-xs flex items-center gap-1">
             TikTok Trends Explorer ↗
@@ -558,7 +568,7 @@
               <h3 class="text-sm sm:text-base font-extrabold text-white">৫ মিনিটে ফুল এআই রিল তৈরির মাস্টার গাইড</h3>
               <span class="bg-emerald-500/20 text-emerald-300 border border-emerald-500/40 text-[10px] font-bold px-2 py-0.5 rounded-full">Step-by-Step</span>
             </div>
-            <p class="text-[11px] text-slate-400">মোবাইল দিয়ে ফ্রিতে ভাইরাল শর্টস বানানোর ৪টি সহজ ধাপ</p>
+            <p class="text-[11px] text-slate-400">মোবাইল দিয়ে ফ্রিতে ভাইরাল শর্টস বানানোর ৪টি সহজ ধাপ</p>
           </div>
         </div>
         <button onclick="closeGuideModal()" class="h-8 w-8 rounded-full bg-slate-800/80 hover:bg-slate-700 text-slate-300 hover:text-white flex items-center justify-center font-bold text-sm cursor-pointer transition">✕</button>
@@ -653,6 +663,21 @@
       var numPart = parseInt(devId.replace('DEV-', ''), 10);
       var expectedKey = ((numPart * 7) + 123).toString();
       return (inputKey || '').trim() === expectedKey;
+    }
+
+    /* Key Show / Hide Toggle Function */
+    function toggleKeyVisibility() {
+      var input = document.getElementById('passInput');
+      var eye = document.getElementById('eyeIcon');
+      if (!input || !eye) return;
+
+      if (input.type === 'password') {
+        input.type = 'text';
+        eye.innerText = '🙈'; // Eye closed / hiding symbol
+      } else {
+        input.type = 'password';
+        eye.innerText = '👁️'; // Eye open symbol
+      }
     }
 
     function updateWhatsAppLink() {
