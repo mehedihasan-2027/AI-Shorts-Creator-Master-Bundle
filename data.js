@@ -1,5 +1,5 @@
 // Truly Unique 416 Authentic Stories (1248 Production Prompts)
-const bundleData = [
+var bundleData = [
   {
     "id": "CRT-001",
     "category": "cartoon",
@@ -10,19 +10,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "মাছের বাজারে ইলিশ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "মাছের বাজারে ইলিশ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in মাছের বাজারে ইলিশ, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -37,19 +37,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "মাছের বাজারে ইলিশ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "মাছের বাজারে ইলিশ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in মাছের বাজারে ইলিশ, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -64,19 +64,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "সিএনজিওয়ালার সাথে মিটার-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "সিএনজিওয়ালার সাথে মিটার-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in সিএনজিওয়ালার সাথে মিটার, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -91,19 +91,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "সিএনজিওয়ালার সাথে মিটার-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "সিএনজিওয়ালার সাথে মিটার-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in সিএনজিওয়ালার সাথে মিটার, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -118,19 +118,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "ডাক্তারের ইনজেকশন ভীতি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "ডাক্তারের ইনজেকশন ভীতি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in ডাক্তারের ইনজেকশন ভীতি, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -145,19 +145,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "ডাক্তারের ইনজেকশন ভীতি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "ডাক্তারের ইনজেকশন ভীতি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in ডাক্তারের ইনজেকশন ভীতি, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -172,19 +172,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "কাচ্চি বিরিয়ানির লেগপিস-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "কাচ্চি বিরিয়ানির লেগপিস-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in কাচ্চি বিরিয়ানির লেগপিস, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -199,19 +199,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "কাচ্চি বিরিয়ানির লেগপিস-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "কাচ্চি বিরিয়ানির লেগপিস-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in কাচ্চি বিরিয়ানির লেগপিস, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -226,19 +226,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "বিড়ালের ভাজা মাছ চুরি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "বিড়ালের ভাজা মাছ চুরি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in বিড়ালের ভাজা মাছ চুরি, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -253,19 +253,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "বিড়ালের ভাজা মাছ চুরি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "বিড়ালের ভাজা মাছ চুরি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in বিড়ালের ভাজা মাছ চুরি, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -280,19 +280,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "বাবার ফোন পাসওয়ার্ড হ্যাক-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "বাবার ফোন পাসওয়ার্ড হ্যাক-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in বাবার ফোন পাসওয়ার্ড হ্যাক, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -307,19 +307,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "বাবার ফোন পাসওয়ার্ড হ্যাক-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "বাবার ফোন পাসওয়ার্ড হ্যাক-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in বাবার ফোন পাসওয়ার্ড হ্যাক, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -334,19 +334,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "সেলুনে স্পাইক চুল কাটার কাণ্ড-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "সেলুনে স্পাইক চুল কাটার কাণ্ড-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in সেলুনে স্পাইক চুল কাটার কাণ্ড, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -361,19 +361,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "সেলুনে স্পাইক চুল কাটার কাণ্ড-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "সেলুনে স্পাইক চুল কাটার কাণ্ড-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in সেলুনে স্পাইক চুল কাটার কাণ্ড, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -388,19 +388,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "হোমওয়ার্ক না করার তেলাপোকা অজুহাত-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "হোমওয়ার্ক না করার তেলাপোকা অজুহাত-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in হোমওয়ার্ক না করার তেলাপোকা অজুহাত, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -415,19 +415,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "হোমওয়ার্ক না করার তেলাপোকা অজুহাত-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "হোমওয়ার্ক না করার তেলাপোকা অজুহাত-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in হোমওয়ার্ক না করার তেলাপোকা অজুহাত, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -442,19 +442,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "লাল গামছা বেঁধে সুপারম্যান-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "লাল গামছা বেঁধে সুপারম্যান-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in লাল গামছা বেঁধে সুপারম্যান, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -469,19 +469,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "লাল গামছা বেঁধে সুপারম্যান-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "লাল গামছা বেঁধে সুপারম্যান-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in লাল গামছা বেঁধে সুপারম্যান, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -496,19 +496,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "চায়ের টংয়ে পলিটিক্স-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "চায়ের টংয়ে পলিটিক্স-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in চায়ের টংয়ে পলিটিক্স, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -523,19 +523,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "চায়ের টংয়ে পলিটিক্স-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "চায়ের টংয়ে পলিটিক্স-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in চায়ের টংয়ে পলিটিক্স, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -550,19 +550,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "পুকুর ঘাটে গোসল না করার বায়না-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "পুকুর ঘাটে গোসল না করার বায়না-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in পুকুর ঘাটে গোসল না করার বায়না, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -577,19 +577,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "পুকুর ঘাটে গোসল না করার বায়না-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "পুকুর ঘাটে গোসল না করার বায়না-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in পুকুর ঘাটে গোসল না করার বায়না, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -604,19 +604,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "ফুচকার দোকানে অতিরিক্ত ঝাল-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "ফুচকার দোকানে অতিরিক্ত ঝাল-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in ফুচকার দোকানে অতিরিক্ত ঝাল, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -631,19 +631,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "ফুচকার দোকানে অতিরিক্ত ঝাল-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "ফুচকার দোকানে অতিরিক্ত ঝাল-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in ফুচকার দোকানে অতিরিক্ত ঝাল, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -658,19 +658,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "ক্রিকেটে এলবিডব্লিউ ঝগড়া-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "ক্রিকেটে এলবিডব্লিউ ঝগড়া-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in ক্রিকেটে এলবিডব্লিউ ঝগড়া, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -685,19 +685,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "ক্রিকেটে এলবিডব্লিউ ঝগড়া-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "ক্রিকেটে এলবিডব্লিউ ঝগড়া-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in ক্রিকেটে এলবিডব্লিউ ঝগড়া, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -712,19 +712,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "সকালে ঘুম থেকে ওঠার যুদ্ধ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "সকালে ঘুম থেকে ওঠার যুদ্ধ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in সকালে ঘুম থেকে ওঠার যুদ্ধ, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -739,19 +739,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "সকালে ঘুম থেকে ওঠার যুদ্ধ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "সকালে ঘুম থেকে ওঠার যুদ্ধ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in সকালে ঘুম থেকে ওঠার যুদ্ধ, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -766,19 +766,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "আইসক্রিমওয়ালার পিছে ট্রাইসাইকেল-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "আইসক্রিমওয়ালার পিছে ট্রাইসাইকেল-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in আইসক্রিমওয়ালার পিছে ট্রাইসাইকেল, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -793,19 +793,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "আইসক্রিমওয়ালার পিছে ট্রাইসাইকেল-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "আইসক্রিমওয়ালার পিছে ট্রাইসাইকেল-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in আইসক্রিমওয়ালার পিছে ট্রাইসাইকেল, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -820,19 +820,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "ছাদে ঘুড়ি ওড়ানো ভোঁ-কাট্টা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "ছাদে ঘুড়ি ওড়ানো ভোঁ-কাট্টা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in ছাদে ঘুড়ি ওড়ানো ভোঁ-কাট্টা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -847,19 +847,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "ছাদে ঘুড়ি ওড়ানো ভোঁ-কাট্টা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "ছাদে ঘুড়ি ওড়ানো ভোঁ-কাট্টা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in ছাদে ঘুড়ি ওড়ানো ভোঁ-কাট্টা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -874,19 +874,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "মেহমানের সামনে সিক্রেট ফাঁস-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "মেহমানের সামনে সিক্রেট ফাঁস-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in মেহমানের সামনে সিক্রেট ফাঁস, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -901,19 +901,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "মেহমানের সামনে সিক্রেট ফাঁস-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "মেহমানের সামনে সিক্রেট ফাঁস-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in মেহমানের সামনে সিক্রেট ফাঁস, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -928,19 +928,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "বৃষ্টিতে কাদায় ফুটবল মেসি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "বৃষ্টিতে কাদায় ফুটবল মেসি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in বৃষ্টিতে কাদায় ফুটবল মেসি, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -955,19 +955,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "বৃষ্টিতে কাদায় ফুটবল মেসি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "বৃষ্টিতে কাদায় ফুটবল মেসি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in বৃষ্টিতে কাদায় ফুটবল মেসি, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -982,19 +982,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "মুদি দোকানে বাকি চাওয়া-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "মুদি দোকানে বাকি চাওয়া-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in মুদি দোকানে বাকি চাওয়া, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1009,19 +1009,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "মুদি দোকানে বাকি চাওয়া-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "মুদি দোকানে বাকি চাওয়া-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in মুদি দোকানে বাকি চাওয়া, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1036,19 +1036,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "লাইট জ্বলা নতুন জুতা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "লাইট জ্বলা নতুন জুতা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in লাইট জ্বলা নতুন জুতা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1063,19 +1063,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "লাইট জ্বলা নতুন জুতা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "লাইট জ্বলা নতুন জুতা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in লাইট জ্বলা নতুন জুতা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1090,19 +1090,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "দাদুর চশমা পরে বিচারক-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "দাদুর চশমা পরে বিচারক-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in দাদুর চশমা পরে বিচারক, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1117,19 +1117,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "দাদুর চশমা পরে বিচারক-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "দাদুর চশমা পরে বিচারক-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in দাদুর চশমা পরে বিচারক, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1144,19 +1144,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "মুরগির বাচ্চার সাথে যুদ্ধ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "মুরগির বাচ্চার সাথে যুদ্ধ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in মুরগির বাচ্চার সাথে যুদ্ধ, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1171,19 +1171,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "মুরগির বাচ্চার সাথে যুদ্ধ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "মুরগির বাচ্চার সাথে যুদ্ধ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in মুরগির বাচ্চার সাথে যুদ্ধ, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1198,19 +1198,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "হাঁড়ির কালোজাম মিষ্টি চুরি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "হাঁড়ির কালোজাম মিষ্টি চুরি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in হাঁড়ির কালোজাম মিষ্টি চুরি, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1225,19 +1225,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "হাঁড়ির কালোজাম মিষ্টি চুরি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "হাঁড়ির কালোজাম মিষ্টি চুরি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in হাঁড়ির কালোজাম মিষ্টি চুরি, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1252,19 +1252,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "বালিশ দিয়ে তৈরি দুর্গ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "বালিশ দিয়ে তৈরি দুর্গ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in বালিশ দিয়ে তৈরি দুর্গ, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1279,19 +1279,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "বালিশ দিয়ে তৈরি দুর্গ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "বালিশ দিয়ে তৈরি দুর্গ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in বালিশ দিয়ে তৈরি দুর্গ, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1306,19 +1306,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "টিভি রিমোট নিয়ে কুস্তি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "টিভি রিমোট নিয়ে কুস্তি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in টিভি রিমোট নিয়ে কুস্তি, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1333,19 +1333,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "টিভি রিমোট নিয়ে কুস্তি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "টিভি রিমোট নিয়ে কুস্তি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in টিভি রিমোট নিয়ে কুস্তি, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1360,19 +1360,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "স্কুলব্যাগে লুকানো বিড়ালছানা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "স্কুলব্যাগে লুকানো বিড়ালছানা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in স্কুলব্যাগে লুকানো বিড়ালছানা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1387,19 +1387,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "স্কুলব্যাগে লুকানো বিড়ালছানা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "স্কুলব্যাগে লুকানো বিড়ালছানা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in স্কুলব্যাগে লুকানো বিড়ালছানা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1414,19 +1414,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "ঈদের নতুন জামা ময়লা করা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "ঈদের নতুন জামা ময়লা করা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in ঈদের নতুন জামা ময়লা করা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1441,19 +1441,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "ঈদের নতুন জামা ময়লা করা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "ঈদের নতুন জামা ময়লা করা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in ঈদের নতুন জামা ময়লা করা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1468,19 +1468,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "আম গাছে ঢিল ছোড়ার নিশানা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "আম গাছে ঢিল ছোড়ার নিশানা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in আম গাছে ঢিল ছোড়ার নিশানা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1495,19 +1495,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "আম গাছে ঢিল ছোড়ার নিশানা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "আম গাছে ঢিল ছোড়ার নিশানা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in আম গাছে ঢিল ছোড়ার নিশানা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1522,19 +1522,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "বৃষ্টির দিনে কাগজের নৌকা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "বৃষ্টির দিনে কাগজের নৌকা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in বৃষ্টির দিনে কাগজের নৌকা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1549,19 +1549,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "বৃষ্টির দিনে কাগজের নৌকা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "বৃষ্টির দিনে কাগজের নৌকা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in বৃষ্টির দিনে কাগজের নৌকা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1576,19 +1576,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "রোবট সেজে হাঁটার নাটক-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "রোবট সেজে হাঁটার নাটক-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in রোবট সেজে হাঁটার নাটক, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1603,19 +1603,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "রোবট সেজে হাঁটার নাটক-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "রোবট সেজে হাঁটার নাটক-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in রোবট সেজে হাঁটার নাটক, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1630,19 +1630,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "ফ্রিজ থেকে চকলেট আইসক্রিম গায়েব-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "ফ্রিজ থেকে চকলেট আইসক্রিম গায়েব-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in ফ্রিজ থেকে চকলেট আইসক্রিম গায়েব, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1657,19 +1657,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "ফ্রিজ থেকে চকলেট আইসক্রিম গায়েব-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "ফ্রিজ থেকে চকলেট আইসক্রিম গায়েব-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in ফ্রিজ থেকে চকলেট আইসক্রিম গায়েব, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1684,19 +1684,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "দাঁত পড়ার পর ইঁদুরের গর্তে ফেলা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "দাঁত পড়ার পর ইঁদুরের গর্তে ফেলা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in দাঁত পড়ার পর ইঁদুরের গর্তে ফেলা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1711,19 +1711,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "দাঁত পড়ার পর ইঁদুরের গর্তে ফেলা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "দাঁত পড়ার পর ইঁদুরের গর্তে ফেলা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in দাঁত পড়ার পর ইঁদুরের গর্তে ফেলা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1738,19 +1738,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "জুসের পাইপ দিয়ে বুদবুদ ওড়ানো-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "জুসের পাইপ দিয়ে বুদবুদ ওড়ানো-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in জুসের পাইপ দিয়ে বুদবুদ ওড়ানো, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1765,19 +1765,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "জুসের পাইপ দিয়ে বুদবুদ ওড়ানো-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "জুসের পাইপ দিয়ে বুদবুদ ওড়ানো-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in জুসের পাইপ দিয়ে বুদবুদ ওড়ানো, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1792,19 +1792,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "আম্মুর লিপস্টিক দিয়ে মুখে আঁকাআঁকি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "আম্মুর লিপস্টিক দিয়ে মুখে আঁকাআঁকি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in আম্মুর লিপস্টিক দিয়ে মুখে আঁকাআঁকি, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1819,19 +1819,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "আম্মুর লিপস্টিক দিয়ে মুখে আঁকাআঁকি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "আম্মুর লিপস্টিক দিয়ে মুখে আঁকাআঁকি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in আম্মুর লিপস্টিক দিয়ে মুখে আঁকাআঁকি, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1846,19 +1846,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "মশার সাথে কুস্তি প্রতিযোগিতা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "মশার সাথে কুস্তি প্রতিযোগিতা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in মশার সাথে কুস্তি প্রতিযোগিতা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1873,19 +1873,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "মশার সাথে কুস্তি প্রতিযোগিতা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "মশার সাথে কুস্তি প্রতিযোগিতা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in মশার সাথে কুস্তি প্রতিযোগিতা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1900,19 +1900,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "পিপীলিকার লাইনে পা দিয়ে বাধা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "পিপীলিকার লাইনে পা দিয়ে বাধা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in পিপীলিকার লাইনে পা দিয়ে বাধা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1927,19 +1927,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "পিপীলিকার লাইনে পা দিয়ে বাধা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "পিপীলিকার লাইনে পা দিয়ে বাধা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in পিপীলিকার লাইনে পা দিয়ে বাধা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1954,19 +1954,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "বালতির পানিতে সাঁতার শেখা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "বালতির পানিতে সাঁতার শেখা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in বালতির পানিতে সাঁতার শেখা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -1981,19 +1981,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "বালতির পানিতে সাঁতার শেখা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "বালতির পানিতে সাঁতার শেখা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in বালতির পানিতে সাঁতার শেখা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2008,19 +2008,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "আয়নায় নিজের সাথে মারামারি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "আয়নায় নিজের সাথে মারামারি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in আয়নায় নিজের সাথে মারামারি, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2035,19 +2035,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "আয়নায় নিজের সাথে মারামারি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "আয়নায় নিজের সাথে মারামারি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in আয়নায় নিজের সাথে মারামারি, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2062,19 +2062,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "টিনের চালে বৃষ্টির ড্রাম বাজানো-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "টিনের চালে বৃষ্টির ড্রাম বাজানো-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in টিনের চালে বৃষ্টির ড্রাম বাজানো, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2089,19 +2089,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "টিনের চালে বৃষ্টির ড্রাম বাজানো-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "টিনের চালে বৃষ্টির ড্রাম বাজানো-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in টিনের চালে বৃষ্টির ড্রাম বাজানো, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2116,19 +2116,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "মোবাইলে ভূত দেখার ভয়-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "মোবাইলে ভূত দেখার ভয়-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in মোবাইলে ভূত দেখার ভয়, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2143,19 +2143,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "মোবাইলে ভূত দেখার ভয়-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "মোবাইলে ভূত দেখার ভয়-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in মোবাইলে ভূত দেখার ভয়, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2170,19 +2170,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "পুকুরে ব্যাঙের সাথে লাফ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "পুকুরে ব্যাঙের সাথে লাফ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in পুকুরে ব্যাঙের সাথে লাফ, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2197,19 +2197,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "পুকুরে ব্যাঙের সাথে লাফ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "পুকুরে ব্যাঙের সাথে লাফ-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in পুকুরে ব্যাঙের সাথে লাফ, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2224,19 +2224,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "নৌকা ভ্রমণের দাঁড়ের লড়াই-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "নৌকা ভ্রমণের দাঁড়ের লড়াই-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in নৌকা ভ্রমণের দাঁড়ের লড়াই, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2251,19 +2251,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "নৌকা ভ্রমণের দাঁড়ের লড়াই-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "নৌকা ভ্রমণের দাঁড়ের লড়াই-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in নৌকা ভ্রমণের দাঁড়ের লড়াই, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2278,19 +2278,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "গরুর হাটে বড় শিংয়ের ষাঁড়-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "গরুর হাটে বড় শিংয়ের ষাঁড়-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in গরুর হাটে বড় শিংয়ের ষাঁড়, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2305,19 +2305,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "গরুর হাটে বড় শিংয়ের ষাঁড়-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "গরুর হাটে বড় শিংয়ের ষাঁড়-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in গরুর হাটে বড় শিংয়ের ষাঁড়, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2332,19 +2332,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "জাদুর কাঠি বানিয়ে হুকুম-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "জাদুর কাঠি বানিয়ে হুকুম-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in জাদুর কাঠি বানিয়ে হুকুম, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2359,19 +2359,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "জাদুর কাঠি বানিয়ে হুকুম-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "জাদুর কাঠি বানিয়ে হুকুম-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in জাদুর কাঠি বানিয়ে হুকুম, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2386,19 +2386,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "রাস্তার কুকুরের সাথে বন্ধুত্ব-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "রাস্তার কুকুরের সাথে বন্ধুত্ব-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in রাস্তার কুকুরের সাথে বন্ধুত্ব, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2413,19 +2413,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "রাস্তার কুকুরের সাথে বন্ধুত্ব-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "রাস্তার কুকুরের সাথে বন্ধুত্ব-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in রাস্তার কুকুরের সাথে বন্ধুত্ব, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2440,19 +2440,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "মেঘ দেখে তুলার পাহাড় ভাবা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "মেঘ দেখে তুলার পাহাড় ভাবা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in মেঘ দেখে তুলার পাহাড় ভাবা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2467,19 +2467,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "মেঘ দেখে তুলার পাহাড় ভাবা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "মেঘ দেখে তুলার পাহাড় ভাবা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in মেঘ দেখে তুলার পাহাড় ভাবা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2494,19 +2494,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "বিছানায় লাফিয়ে স্প্রিং টেস্ট-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "বিছানায় লাফিয়ে স্প্রিং টেস্ট-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in বিছানায় লাফিয়ে স্প্রিং টেস্ট, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2521,19 +2521,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "বিছানায় লাফিয়ে স্প্রিং টেস্ট-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "বিছানায় লাফিয়ে স্প্রিং টেস্ট-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in বিছানায় লাফিয়ে স্প্রিং টেস্ট, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2548,19 +2548,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "চশমা খুঁজে না পাওয়া দাদিকে ফাঁকি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "চশমা খুঁজে না পাওয়া দাদিকে ফাঁকি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in চশমা খুঁজে না পাওয়া দাদিকে ফাঁকি, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2575,19 +2575,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "চশমা খুঁজে না পাওয়া দাদিকে ফাঁকি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "চশমা খুঁজে না পাওয়া দাদিকে ফাঁকি-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in চশমা খুঁজে না পাওয়া দাদিকে ফাঁকি, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2602,19 +2602,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "পানির পাইপ দিয়ে যুদ্ধক্ষেত্র-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "পানির পাইপ দিয়ে যুদ্ধক্ষেত্র-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in পানির পাইপ দিয়ে যুদ্ধক্ষেত্র, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2629,19 +2629,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "পানির পাইপ দিয়ে যুদ্ধক্ষেত্র-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "পানির পাইপ দিয়ে যুদ্ধক্ষেত্র-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in পানির পাইপ দিয়ে যুদ্ধক্ষেত্র, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2656,19 +2656,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "পাখির খাঁচায় কথা বলার চেষ্টা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "পাখির খাঁচায় কথা বলার চেষ্টা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in পাখির খাঁচায় কথা বলার চেষ্টা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2683,19 +2683,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "পাখির খাঁচায় কথা বলার চেষ্টা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "পাখির খাঁচায় কথা বলার চেষ্টা-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in পাখির খাঁচায় কথা বলার চেষ্টা, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2710,19 +2710,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "ছাতার ভেতর আস্ত পৃথিবী-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "ছাতার ভেতর আস্ত পৃথিবী-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in ছাতার ভেতর আস্ত পৃথিবী, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2737,19 +2737,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "ছাতার ভেতর আস্ত পৃথিবী-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "ছাতার ভেতর আস্ত পৃথিবী-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in ছাতার ভেতর আস্ত পৃথিবী, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2764,19 +2764,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "কাদামাটি দিয়ে রসগোল্লা বানানো-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "কাদামাটি দিয়ে রসগোল্লা বানানো-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in কাদামাটি দিয়ে রসগোল্লা বানানো, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2791,19 +2791,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "দৃশ্যপট ও চ্যালেঞ্জ",
-        "dialogue": "কাদামাটি দিয়ে রসগোল্লা বানানো-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
+        "dialogue": "কাদামাটি দিয়ে রসগোল্লা বানানো-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!",
         "prompt": "Cinematic vertical shot, cute toddler involved in কাদামাটি দিয়ে রসগোল্লা বানানো, hilarious determined expression, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "কমেডি তর্ক ও ক্লাইম্যাক্স",
-        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
+        "dialogue": "পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'",
         "prompt": "Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "শেষ পরিণতি ও টুইস্ট",
-        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
+        "dialogue": "হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!",
         "prompt": "Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, Pixar style 3D render, expressive, cinematic lighting, cute, viral reels --ar 9:16"
       }
     ]
@@ -2817,14 +2817,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of অভিশপ্ত বাতিঘরের শেষ আলো, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to অভিশপ্ত বাতিঘরের শেষ আলো, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -2844,14 +2844,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of অভিশপ্ত বাতিঘরের শেষ আলো, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to অভিশপ্ত বাতিঘরের শেষ আলো, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -2871,14 +2871,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of রাতের ট্রেনের শেষ বগির ছায়া, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to রাতের ট্রেনের শেষ বগির ছায়া, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -2898,14 +2898,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of রাতের ট্রেনের শেষ বগির ছায়া, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to রাতের ট্রেনের শেষ বগির ছায়া, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -2925,14 +2925,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of জমিদার বাড়ির হাসিমুখ আয়না, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to জমিদার বাড়ির হাসিমুখ আয়না, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -2952,14 +2952,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of জমিদার বাড়ির হাসিমুখ আয়না, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to জমিদার বাড়ির হাসিমুখ আয়না, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -2979,14 +2979,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of নির্জন হাইওয়ের উল্টো মানুষ, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to নির্জন হাইওয়ের উল্টো মানুষ, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3006,14 +3006,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of নির্জন হাইওয়ের উল্টো মানুষ, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to নির্জন হাইওয়ের উল্টো মানুষ, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3033,14 +3033,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পুরোনো রেডিওর ক্রন্দন সিগন্যাল, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পুরোনো রেডিওর ক্রন্দন সিগন্যাল, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3060,14 +3060,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পুরোনো রেডিওর ক্রন্দন সিগন্যাল, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পুরোনো রেডিওর ক্রন্দন সিগন্যাল, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3087,14 +3087,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of কবরস্থানের নির্জন পাহারাদার, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to কবরস্থানের নির্জন পাহারাদার, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3114,14 +3114,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of কবরস্থানের নির্জন পাহারাদার, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to কবরস্থানের নির্জন পাহারাদার, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3141,14 +3141,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of লিফটের নিষিদ্ধ ১৩ নম্বর ফ্লোর, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to লিফটের নিষিদ্ধ ১৩ নম্বর ফ্লোর, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3168,14 +3168,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of লিফটের নিষিদ্ধ ১৩ নম্বর ফ্লোর, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to লিফটের নিষিদ্ধ ১৩ নম্বর ফ্লোর, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3195,14 +3195,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of কাঁচের বাক্সে পুতুল আনাবেল, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to কাঁচের বাক্সে পুতুল আনাবেল, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3222,14 +3222,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of কাঁচের বাক্সে পুতুল আনাবেল, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to কাঁচের বাক্সে পুতুল আনাবেল, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3249,14 +3249,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of নিঝুম চরের কুয়াশাচ্ছন্ন স্কুল, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to নিঝুম চরের কুয়াশাচ্ছন্ন স্কুল, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3276,14 +3276,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of নিঝুম চরের কুয়াশাচ্ছন্ন স্কুল, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to নিঝুম চরের কুয়াশাচ্ছন্ন স্কুল, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3303,14 +3303,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of মৃত বন্ধুর ফ্রেন্ড রিকোয়েস্ট, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to মৃত বন্ধুর ফ্রেন্ড রিকোয়েস্ট, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3330,14 +3330,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of মৃত বন্ধুর ফ্রেন্ড রিকোয়েস্ট, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to মৃত বন্ধুর ফ্রেন্ড রিকোয়েস্ট, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3357,14 +3357,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of শুকনো কুয়োর গভীরের চোখ, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to শুকনো কুয়োর গভীরের চোখ, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3384,14 +3384,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of শুকনো কুয়োর গভীরের চোখ, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to শুকনো কুয়োর গভীরের চোখ, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3411,14 +3411,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of বনের ভেতর উল্টো পায়ের ছাপ, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to বনের ভেতর উল্টো পায়ের ছাপ, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3438,14 +3438,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of বনের ভেতর উল্টো পায়ের ছাপ, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to বনের ভেতর উল্টো পায়ের ছাপ, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3465,14 +3465,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of অটোড্রাইভিং গাড়ির ভৌতিক যাত্রী, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to অটোড্রাইভিং গাড়ির ভৌতিক যাত্রী, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3492,14 +3492,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of অটোড্রাইভিং গাড়ির ভৌতিক যাত্রী, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to অটোড্রাইভিং গাড়ির ভৌতিক যাত্রী, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3519,14 +3519,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of ক্যানভাসে একা আঁকা রক্তাক্ত ছবি, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to ক্যানভাসে একা আঁকা রক্তাক্ত ছবি, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3546,14 +3546,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of ক্যানভাসে একা আঁকা রক্তাক্ত ছবি, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to ক্যানভাসে একা আঁকা রক্তাক্ত ছবি, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3573,14 +3573,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of নাইট মোড ক্যামেরার ফেস ডিটেকশন, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to নাইট মোড ক্যামেরার ফেস ডিটেকশন, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3600,14 +3600,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of নাইট মোড ক্যামেরার ফেস ডিটেকশন, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to নাইট মোড ক্যামেরার ফেস ডিটেকশন, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3627,14 +3627,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পরিত্যক্ত মর্গের হিমশীতল ড্রয়ার, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পরিত্যক্ত মর্গের হিমশীতল ড্রয়ার, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3654,14 +3654,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পরিত্যক্ত মর্গের হিমশীতল ড্রয়ার, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পরিত্যক্ত মর্গের হিমশীতল ড্রয়ার, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3681,14 +3681,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of শ্যাওলা পড়া দিঘির লাল শাড়ি, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to শ্যাওলা পড়া দিঘির লাল শাড়ি, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3708,14 +3708,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of শ্যাওলা পড়া দিঘির লাল শাড়ি, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to শ্যাওলা পড়া দিঘির লাল শাড়ি, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3735,14 +3735,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of বন্ধ ঘরের ভেতর নখের আঁচড়, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to বন্ধ ঘরের ভেতর নখের আঁচড়, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3762,14 +3762,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of বন্ধ ঘরের ভেতর নখের আঁচড়, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to বন্ধ ঘরের ভেতর নখের আঁচড়, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3789,14 +3789,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পুরোনো টেলিফোনে কান্নার রিংটোন, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পুরোনো টেলিফোনে কান্নার রিংটোন, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3816,14 +3816,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পুরোনো টেলিফোনে কান্নার রিংটোন, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পুরোনো টেলিফোনে কান্নার রিংটোন, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3843,14 +3843,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of নিঝুম রাতের শেষ অ্যাম্বুলেন্স, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to নিঝুম রাতের শেষ অ্যাম্বুলেন্স, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3870,14 +3870,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of নিঝুম রাতের শেষ অ্যাম্বুলেন্স, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to নিঝুম রাতের শেষ অ্যাম্বুলেন্স, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3897,14 +3897,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পাহাড়ি কুয়াশার ডাক নাম, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পাহাড়ি কুয়াশার ডাক নাম, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3924,14 +3924,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পাহাড়ি কুয়াশার ডাক নাম, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পাহাড়ি কুয়াশার ডাক নাম, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3951,14 +3951,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of ভাঙা সেতুর ওপর দাঁড়িয়ে থাকা অবয়ব, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to ভাঙা সেতুর ওপর দাঁড়িয়ে থাকা অবয়ব, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -3978,14 +3978,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of ভাঙা সেতুর ওপর দাঁড়িয়ে থাকা অবয়ব, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to ভাঙা সেতুর ওপর দাঁড়িয়ে থাকা অবয়ব, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4005,14 +4005,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of অপারেশন থিয়েটারের বন্ধ বাতি, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to অপারেশন থিয়েটারের বন্ধ বাতি, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4032,14 +4032,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of অপারেশন থিয়েটারের বন্ধ বাতি, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to অপারেশন থিয়েটারের বন্ধ বাতি, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4059,14 +4059,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of সিনেমা হলের ফাঁকা ব্যালকনি, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to সিনেমা হলের ফাঁকা ব্যালকনি, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4086,14 +4086,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of সিনেমা হলের ফাঁকা ব্যালকনি, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to সিনেমা হলের ফাঁকা ব্যালকনি, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4113,14 +4113,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of অন্ধকার সিঁড়ির নিচের ফিসফিসানি, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to অন্ধকার সিঁড়ির নিচের ফিসফিসানি, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4140,14 +4140,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of অন্ধকার সিঁড়ির নিচের ফিসফিসানি, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to অন্ধকার সিঁড়ির নিচের ফিসফিসানি, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4167,14 +4167,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পোড়া বইয়ের অক্ষত কালো পাতা, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পোড়া বইয়ের অক্ষত কালো পাতা, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4194,14 +4194,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পোড়া বইয়ের অক্ষত কালো পাতা, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পোড়া বইয়ের অক্ষত কালো পাতা, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4221,14 +4221,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পোড়া উইন্ডমিলের রক্তমাখা পাখা, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পোড়া উইন্ডমিলের রক্তমাখা পাখা, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4248,14 +4248,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পোড়া উইন্ডমিলের রক্তমাখা পাখা, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পোড়া উইন্ডমিলের রক্তমাখা পাখা, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4275,14 +4275,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of অচেনা নম্বর থেকে ভিডিও কল, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to অচেনা নম্বর থেকে ভিডিও কল, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4302,14 +4302,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of অচেনা নম্বর থেকে ভিডিও কল, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to অচেনা নম্বর থেকে ভিডিও কল, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4329,14 +4329,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of মাটির নিচে চাপা পড়া রেললাইন, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to মাটির নিচে চাপা পড়া রেললাইন, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4356,14 +4356,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of মাটির নিচে চাপা পড়া রেললাইন, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to মাটির নিচে চাপা পড়া রেললাইন, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4383,14 +4383,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of জঙ্গলের ভেতর সাজানো ডাইনিং টেবিল, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to জঙ্গলের ভেতর সাজানো ডাইনিং টেবিল, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4410,14 +4410,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of জঙ্গলের ভেতর সাজানো ডাইনিং টেবিল, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to জঙ্গলের ভেতর সাজানো ডাইনিং টেবিল, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4437,14 +4437,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of মাঝরাতে বন্ধ ভেন্টিলেটরের দীর্ঘশ্বাস, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to মাঝরাতে বন্ধ ভেন্টিলেটরের দীর্ঘশ্বাস, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4464,14 +4464,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of মাঝরাতে বন্ধ ভেন্টিলেটরের দীর্ঘশ্বাস, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to মাঝরাতে বন্ধ ভেন্টিলেটরের দীর্ঘশ্বাস, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4491,14 +4491,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পোস্টমর্টেম টেবিলের নড়াচড়া, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পোস্টমর্টেম টেবিলের নড়াচড়া, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4518,14 +4518,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পোস্টমর্টেম টেবিলের নড়াচড়া, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পোস্টমর্টেম টেবিলের নড়াচড়া, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4545,14 +4545,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of প্রাচীন কফিনের ভেতর কাঠের ঠকঠক, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to প্রাচীন কফিনের ভেতর কাঠের ঠকঠক, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4572,14 +4572,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of প্রাচীন কফিনের ভেতর কাঠের ঠকঠক, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to প্রাচীন কফিনের ভেতর কাঠের ঠকঠক, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4599,14 +4599,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of ঘুম ভাঙতেই সিলিংয়ে উল্টো ছায়া, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to ঘুম ভাঙতেই সিলিংয়ে উল্টো ছায়া, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4626,14 +4626,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of ঘুম ভাঙতেই সিলিংয়ে উল্টো ছায়া, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to ঘুম ভাঙতেই সিলিংয়ে উল্টো ছায়া, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4653,14 +4653,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of হিমঘরের কাঁচের ওপর বাষ্পের হাতের ছাপ, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to হিমঘরের কাঁচের ওপর বাষ্পের হাতের ছাপ, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4680,14 +4680,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of হিমঘরের কাঁচের ওপর বাষ্পের হাতের ছাপ, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to হিমঘরের কাঁচের ওপর বাষ্পের হাতের ছাপ, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4707,14 +4707,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of ভাঙা পুতুলের চোখের পাতা ফেলা, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to ভাঙা পুতুলের চোখের পাতা ফেলা, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4734,14 +4734,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of ভাঙা পুতুলের চোখের পাতা ফেলা, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to ভাঙা পুতুলের চোখের পাতা ফেলা, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4761,14 +4761,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of শুকনো পাতার ওপর অদৃশ্য পায়ের আওয়াজ, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to শুকনো পাতার ওপর অদৃশ্য পায়ের আওয়াজ, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4788,14 +4788,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of শুকনো পাতার ওপর অদৃশ্য পায়ের আওয়াজ, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to শুকনো পাতার ওপর অদৃশ্য পায়ের আওয়াজ, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4815,14 +4815,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of কুয়াশাচ্ছন্ন সেতুর লাল আলো, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to কুয়াশাচ্ছন্ন সেতুর লাল আলো, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4842,14 +4842,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of কুয়াশাচ্ছন্ন সেতুর লাল আলো, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to কুয়াশাচ্ছন্ন সেতুর লাল আলো, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4869,14 +4869,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of বন্ধ কারখানার সাইরেন রাত তিনটায়, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to বন্ধ কারখানার সাইরেন রাত তিনটায়, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4896,14 +4896,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of বন্ধ কারখানার সাইরেন রাত তিনটায়, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to বন্ধ কারখানার সাইরেন রাত তিনটায়, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4923,14 +4923,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of প্রাচীন বটগাছের ঝুলন্ত শেকড়, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to প্রাচীন বটগাছের ঝুলন্ত শেকড়, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4950,14 +4950,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of প্রাচীন বটগাছের ঝুলন্ত শেকড়, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to প্রাচীন বটগাছের ঝুলন্ত শেকড়, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -4977,14 +4977,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পুরোনো ডায়েরির রক্তের দাগ, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পুরোনো ডায়েরির রক্তের দাগ, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5004,14 +5004,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পুরোনো ডায়েরির রক্তের দাগ, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পুরোনো ডায়েরির রক্তের দাগ, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5031,14 +5031,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পরিত্যক্ত জাহাজের ক্যাপ্টেন রুম, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পরিত্যক্ত জাহাজের ক্যাপ্টেন রুম, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5058,14 +5058,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পরিত্যক্ত জাহাজের ক্যাপ্টেন রুম, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পরিত্যক্ত জাহাজের ক্যাপ্টেন রুম, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5085,14 +5085,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of বৃষ্টির রাতে ট্যাক্সির অদৃশ্য যাত্রী, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to বৃষ্টির রাতে ট্যাক্সির অদৃশ্য যাত্রী, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5112,14 +5112,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of বৃষ্টির রাতে ট্যাক্সির অদৃশ্য যাত্রী, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to বৃষ্টির রাতে ট্যাক্সির অদৃশ্য যাত্রী, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5139,14 +5139,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পুকুরের নিচে পাথরের সমাধি, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পুকুরের নিচে পাথরের সমাধি, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5166,14 +5166,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of পুকুরের নিচে পাথরের সমাধি, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to পুকুরের নিচে পাথরের সমাধি, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5193,14 +5193,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of গভীর খনির শেষ লিফট ড্রপ, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to গভীর খনির শেষ লিফট ড্রপ, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5220,14 +5220,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of গভীর খনির শেষ লিফট ড্রপ, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to গভীর খনির শেষ লিফট ড্রপ, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5247,14 +5247,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of মৃত জেলের খালি নৌকার বৈঠা, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to মৃত জেলের খালি নৌকার বৈঠা, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5274,14 +5274,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of মৃত জেলের খালি নৌকার বৈঠা, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to মৃত জেলের খালি নৌকার বৈঠা, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5301,14 +5301,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of অন্ধকার গুহার প্রাচীন ড্রয়িং, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to অন্ধকার গুহার প্রাচীন ড্রয়িং, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5328,14 +5328,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of অন্ধকার গুহার প্রাচীন ড্রয়িং, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to অন্ধকার গুহার প্রাচীন ড্রয়িং, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5355,14 +5355,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of কালো বিড়ালের চোখের মায়াবী আলো, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to কালো বিড়ালের চোখের মায়াবী আলো, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5382,14 +5382,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of কালো বিড়ালের চোখের মায়াবী আলো, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to কালো বিড়ালের চোখের মায়াবী আলো, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5409,14 +5409,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of রাত বারোটার পর আয়নায় হাত রাখা, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to রাত বারোটার পর আয়নায় হাত রাখা, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5436,14 +5436,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of রাত বারোটার পর আয়নায় হাত রাখা, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to রাত বারোটার পর আয়নায় হাত রাখা, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5463,14 +5463,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of নিঝুম অনাথ আশ্রমের দোলনা, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to নিঝুম অনাথ আশ্রমের দোলনা, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5490,14 +5490,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of নিঝুম অনাথ আশ্রমের দোলনা, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to নিঝুম অনাথ আশ্রমের দোলনা, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5517,14 +5517,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of কাঁপতে থাকা মোমবাতির নীল শিখা, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to কাঁপতে থাকা মোমবাতির নীল শিখা, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5544,14 +5544,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of কাঁপতে থাকা মোমবাতির নীল শিখা, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to কাঁপতে থাকা মোমবাতির নীল শিখা, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5571,14 +5571,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of অন্ধকার করিডোরে ভেজা পায়ের দাগ, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to অন্ধকার করিডোরে ভেজা পায়ের দাগ, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5598,14 +5598,14 @@ const bundleData = [
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
-        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
-        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
+        "title": "কুয়াশাচ্ছন্ন সূত্রপাত",
+        "dialogue": "মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!",
         "prompt": "Atmospheric establishing shot 9:16, eerie mist creeping over setting of অন্ধকার করিডোরে ভেজা পায়ের দাগ, ominous dread, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
-        "title": "ভয়ংকর উপস্থিতি",
-        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
+        "title": "ভয়ংকর উপস্থিতি",
+        "dialogue": "টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!",
         "prompt": "Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to অন্ধকার করিডোরে ভেজা পায়ের দাগ, chilling tension, Dark moody cinematic 8k, eerie atmospheric haze, hyper-realistic, photorealistic horror --ar 9:16"
       },
       {
@@ -5626,7 +5626,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing কাঁচের বৃষ্টির নীল গ্রহ HD 189733b, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -5638,7 +5638,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of কাঁচের বৃষ্টির নীল গ্রহ HD 189733b rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -5653,7 +5653,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing কাঁচের বৃষ্টির নীল গ্রহ HD 189733b, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -5665,7 +5665,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of কাঁচের বৃষ্টির নীল গ্রহ HD 189733b rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -5680,7 +5680,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing দানবীয় ব্ল্যাকহোল TON 618, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -5692,7 +5692,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of দানবীয় ব্ল্যাকহোল TON 618 rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -5707,7 +5707,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing দানবীয় ব্ল্যাকহোল TON 618, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -5719,7 +5719,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of দানবীয় ব্ল্যাকহোল TON 618 rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -5734,7 +5734,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing খাঁটি হীরার গ্রহ 55 Cancri e, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -5746,7 +5746,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of খাঁটি হীরার গ্রহ 55 Cancri e rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -5761,7 +5761,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing খাঁটি হীরার গ্রহ 55 Cancri e, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -5773,7 +5773,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of খাঁটি হীরার গ্রহ 55 Cancri e rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -5788,7 +5788,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing নিউট্রন স্টারের পাহাড় প্রমাণ ভর, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -5800,7 +5800,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of নিউট্রন স্টারের পাহাড় প্রমাণ ভর rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -5815,7 +5815,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing নিউট্রন স্টারের পাহাড় প্রমাণ ভর, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -5827,7 +5827,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of নিউট্রন স্টারের পাহাড় প্রমাণ ভর rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -5842,7 +5842,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing বৃহস্পতির ৩৫০ বছরের গ্রেট রেড স্পট, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -5854,7 +5854,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of বৃহস্পতির ৩৫০ বছরের গ্রেট রেড স্পট rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -5869,7 +5869,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing বৃহস্পতির ৩৫০ বছরের গ্রেট রেড স্পট, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -5881,7 +5881,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of বৃহস্পতির ৩৫০ বছরের গ্রেট রেড স্পট rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -5896,7 +5896,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing ইউরেনাসের তরল হীরার মহাসাগর, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -5908,7 +5908,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of ইউরেনাসের তরল হীরার মহাসাগর rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -5923,7 +5923,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing ইউরেনাসের তরল হীরার মহাসাগর, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -5935,7 +5935,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of ইউরেনাসের তরল হীরার মহাসাগর rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -5950,7 +5950,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing চাঁদের দক্ষিণ মেরুর অন্ধকার বরফ, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -5962,7 +5962,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of চাঁদের দক্ষিণ মেরুর অন্ধকার বরফ rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -5977,7 +5977,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing চাঁদের দক্ষিণ মেরুর অন্ধকার বরফ, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -5989,7 +5989,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of চাঁদের দক্ষিণ মেরুর অন্ধকার বরফ rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6004,7 +6004,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing সূর্যের কোর ফিউশন ও আলোর জন্ম, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6016,7 +6016,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of সূর্যের কোর ফিউশন ও আলোর জন্ম rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6031,7 +6031,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing সূর্যের কোর ফিউশন ও আলোর জন্ম, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6043,7 +6043,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of সূর্যের কোর ফিউশন ও আলোর জন্ম rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6058,7 +6058,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing ভয়েজার ১-এর নিঃসঙ্গ মহাজাগতিক যাত্রা, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6070,7 +6070,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of ভয়েজার ১-এর নিঃসঙ্গ মহাজাগতিক যাত্রা rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6085,7 +6085,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing ভয়েজার ১-এর নিঃসঙ্গ মহাজাগতিক যাত্রা, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6097,7 +6097,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of ভয়েজার ১-এর নিঃসঙ্গ মহাজাগতিক যাত্রা rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6112,7 +6112,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing টাইটানের মাইনাস ১৮০ ডিগ্রির মিথেন সাগর, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6124,7 +6124,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of টাইটানের মাইনাস ১৮০ ডিগ্রির মিথেন সাগর rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6139,7 +6139,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing টাইটানের মাইনাস ১৮০ ডিগ্রির মিথেন সাগর, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6151,7 +6151,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of টাইটানের মাইনাস ১৮০ ডিগ্রির মিথেন সাগর rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6166,7 +6166,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing মিল্কিওয়ে ও অ্যান্ড্রোমিডার মহাধাক্কা, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6178,7 +6178,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of মিল্কিওয়ে ও অ্যান্ড্রোমিডার মহাধাক্কা rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6193,7 +6193,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing মিল্কিওয়ে ও অ্যান্ড্রোমিডার মহাধাক্কা, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6205,7 +6205,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of মিল্কিওয়ে ও অ্যান্ড্রোমিডার মহাধাক্কা rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6220,7 +6220,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing শনির বলয় বিলুপ্তির আইস রেইন, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6232,7 +6232,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of শনির বলয় বিলুপ্তির আইস রেইন rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6247,7 +6247,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing শনির বলয় বিলুপ্তির আইস রেইন, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6259,7 +6259,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of শনির বলয় বিলুপ্তির আইস রেইন rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6274,7 +6274,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing মঙ্গলের সুবিশাল অলিম্পাস মনস শৃঙ্গ, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6286,7 +6286,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of মঙ্গলের সুবিশাল অলিম্পাস মনস শৃঙ্গ rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6301,7 +6301,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing মঙ্গলের সুবিশাল অলিম্পাস মনস শৃঙ্গ, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6313,7 +6313,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of মঙ্গলের সুবিশাল অলিম্পাস মনস শৃঙ্গ rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6328,7 +6328,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing ডার্ক ম্যাটারের অদৃশ্য মহাজাগতিক জাল, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6340,7 +6340,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of ডার্ক ম্যাটারের অদৃশ্য মহাজাগতিক জাল rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6355,7 +6355,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing ডার্ক ম্যাটারের অদৃশ্য মহাজাগতিক জাল, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6367,7 +6367,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of ডার্ক ম্যাটারের অদৃশ্য মহাজাগতিক জাল rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6382,7 +6382,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing প্লুটোর বুকে বরফের সচল হৃদয়, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6394,7 +6394,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of প্লুটোর বুকে বরফের সচল হৃদয় rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6409,7 +6409,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing প্লুটোর বুকে বরফের সচল হৃদয়, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6421,7 +6421,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of প্লুটোর বুকে বরফের সচল হৃদয় rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6436,7 +6436,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing জেমস ওয়েব টেলিস্কোপের সময় পরিভ্রমণ, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6448,7 +6448,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of জেমস ওয়েব টেলিস্কোপের সময় পরিভ্রমণ rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6463,7 +6463,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing জেমস ওয়েব টেলিস্কোপের সময় পরিভ্রমণ, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6475,7 +6475,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of জেমস ওয়েব টেলিস্কোপের সময় পরিভ্রমণ rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6490,7 +6490,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing ম্যাগনেটারের কোটি আলোকবর্ষের চৌম্বক শক্তি, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6502,7 +6502,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of ম্যাগনেটারের কোটি আলোকবর্ষের চৌম্বক শক্তি rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6517,7 +6517,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing ম্যাগনেটারের কোটি আলোকবর্ষের চৌম্বক শক্তি, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6529,7 +6529,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of ম্যাগনেটারের কোটি আলোকবর্ষের চৌম্বক শক্তি rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6544,7 +6544,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing অদৃশ্য ভ্যাম্পায়ার স্টারের সঙ্গী ভক্ষণ, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6556,7 +6556,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of অদৃশ্য ভ্যাম্পায়ার স্টারের সঙ্গী ভক্ষণ rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6571,7 +6571,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing অদৃশ্য ভ্যাম্পায়ার স্টারের সঙ্গী ভক্ষণ, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6583,7 +6583,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of অদৃশ্য ভ্যাম্পায়ার স্টারের সঙ্গী ভক্ষণ rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6598,7 +6598,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing গামা-রে বিস্ফোরণের মহাপ্রলয়, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6610,7 +6610,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of গামা-রে বিস্ফোরণের মহাপ্রলয় rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6625,7 +6625,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing গামা-রে বিস্ফোরণের মহাপ্রলয়, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6637,7 +6637,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of গামা-রে বিস্ফোরণের মহাপ্রলয় rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6652,7 +6652,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing সৌরজগতের শেষ সীমানা উর্ট ক্লাউড, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6664,7 +6664,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of সৌরজগতের শেষ সীমানা উর্ট ক্লাউড rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6679,7 +6679,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing সৌরজগতের শেষ সীমানা উর্ট ক্লাউড, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6691,7 +6691,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of সৌরজগতের শেষ সীমানা উর্ট ক্লাউড rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6706,7 +6706,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing ট্র্যাপিস্ট-১ সিস্টেমের সাতটি পৃথিবী, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6718,7 +6718,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of ট্র্যাপিস্ট-১ সিস্টেমের সাতটি পৃথিবী rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6733,7 +6733,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing ট্র্যাপিস্ট-১ সিস্টেমের সাতটি পৃথিবী, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6745,7 +6745,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of ট্র্যাপিস্ট-১ সিস্টেমের সাতটি পৃথিবী rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6760,7 +6760,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing সোনালী রঙের সুপারনোভা বিস্ফোরণ, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6772,7 +6772,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of সোনালী রঙের সুপারনোভা বিস্ফোরণ rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6787,7 +6787,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing সোনালী রঙের সুপারনোভা বিস্ফোরণ, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6799,7 +6799,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of সোনালী রঙের সুপারনোভা বিস্ফোরণ rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6814,7 +6814,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing রোভার পারসিভিয়ারেন্সের প্রাচীন মার্স লেক, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6826,7 +6826,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of রোভার পারসিভিয়ারেন্সের প্রাচীন মার্স লেক rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6841,7 +6841,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing রোভার পারসিভিয়ারেন্সের প্রাচীন মার্স লেক, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6853,7 +6853,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of রোভার পারসিভিয়ারেন্সের প্রাচীন মার্স লেক rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6868,7 +6868,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing শ্লেষ্মাময় কৃষ্ণ দানব প্রক্সিমা সেন্টোরাই, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6880,7 +6880,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of শ্লেষ্মাময় কৃষ্ণ দানব প্রক্সিমা সেন্টোরাই rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6895,7 +6895,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing শ্লেষ্মাময় কৃষ্ণ দানব প্রক্সিমা সেন্টোরাই, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6907,7 +6907,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of শ্লেষ্মাময় কৃষ্ণ দানব প্রক্সিমা সেন্টোরাই rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6922,7 +6922,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing বৃহস্পতির চাঁদ ইউরোপার বরফের নিচে সাগর, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6934,7 +6934,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of বৃহস্পতির চাঁদ ইউরোপার বরফের নিচে সাগর rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6949,7 +6949,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing বৃহস্পতির চাঁদ ইউরোপার বরফের নিচে সাগর, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6961,7 +6961,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of বৃহস্পতির চাঁদ ইউরোপার বরফের নিচে সাগর rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -6976,7 +6976,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing শনির এনসেলাডাসের গরম পানির গিজার, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -6988,7 +6988,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of শনির এনসেলাডাসের গরম পানির গিজার rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7003,7 +7003,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing শনির এনসেলাডাসের গরম পানির গিজার, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7015,7 +7015,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of শনির এনসেলাডাসের গরম পানির গিজার rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7030,7 +7030,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing আইনস্টাইনের মহাকর্ষীয় লেন্সিং রিং, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7042,7 +7042,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of আইনস্টাইনের মহাকর্ষীয় লেন্সিং রিং rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7057,7 +7057,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing আইনস্টাইনের মহাকর্ষীয় লেন্সিং রিং, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7069,7 +7069,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of আইনস্টাইনের মহাকর্ষীয় লেন্সিং রিং rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7084,7 +7084,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing প্রথম আলোর ফোটন কসমিক রেডিয়েশন, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7096,7 +7096,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of প্রথম আলোর ফোটন কসমিক রেডিয়েশন rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7111,7 +7111,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing প্রথম আলোর ফোটন কসমিক রেডিয়েশন, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7123,7 +7123,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of প্রথম আলোর ফোটন কসমিক রেডিয়েশন rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7138,7 +7138,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing আন্তঃনাক্ষত্রিক আগন্তুক ওউমুয়ামুয়া, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7150,7 +7150,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of আন্তঃনাক্ষত্রিক আগন্তুক ওউমুয়ামুয়া rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7165,7 +7165,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing আন্তঃনাক্ষত্রিক আগন্তুক ওউমুয়ামুয়া, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7177,7 +7177,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of আন্তঃনাক্ষত্রিক আগন্তুক ওউমুয়ামুয়া rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7192,7 +7192,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing সৌরঝড়ে পৃথিবীর রেডিও ব্ল্যাকআউট, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7204,7 +7204,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of সৌরঝড়ে পৃথিবীর রেডিও ব্ল্যাকআউট rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7219,7 +7219,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing সৌরঝড়ে পৃথিবীর রেডিও ব্ল্যাকআউট, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7231,7 +7231,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of সৌরঝড়ে পৃথিবীর রেডিও ব্ল্যাকআউট rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7246,7 +7246,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing হোয়াইট ডোয়ার্ফ তারার ক্রিস্টাল রূপ, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7258,7 +7258,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of হোয়াইট ডোয়ার্ফ তারার ক্রিস্টাল রূপ rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7273,7 +7273,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing হোয়াইট ডোয়ার্ফ তারার ক্রিস্টাল রূপ, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7285,7 +7285,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of হোয়াইট ডোয়ার্ফ তারার ক্রিস্টাল রূপ rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7300,7 +7300,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing আকাশগঙ্গার কেন্দ্রে স্যাজিটেরিয়াস এ*, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7312,7 +7312,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of আকাশগঙ্গার কেন্দ্রে স্যাজিটেরিয়াস এ* rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7327,7 +7327,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing আকাশগঙ্গার কেন্দ্রে স্যাজিটেরিয়াস এ*, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7339,7 +7339,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of আকাশগঙ্গার কেন্দ্রে স্যাজিটেরিয়াস এ* rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7354,7 +7354,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing কোয়াসার বিস্ফোরণের প্রলয়ঙ্করী উজ্জ্বলতা, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7366,7 +7366,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of কোয়াসার বিস্ফোরণের প্রলয়ঙ্করী উজ্জ্বলতা rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7381,7 +7381,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing কোয়াসার বিস্ফোরণের প্রলয়ঙ্করী উজ্জ্বলতা, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7393,7 +7393,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of কোয়াসার বিস্ফোরণের প্রলয়ঙ্করী উজ্জ্বলতা rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7408,7 +7408,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing অক্সিজেনহীন স্পেস স্যুটের শূন্যতা, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7420,7 +7420,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of অক্সিজেনহীন স্পেস স্যুটের শূন্যতা rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7435,7 +7435,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing অক্সিজেনহীন স্পেস স্যুটের শূন্যতা, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7447,7 +7447,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of অক্সিজেনহীন স্পেস স্যুটের শূন্যতা rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7462,7 +7462,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing মহাজাগতিক শূন্যস্থান বোয়েস ভয়েড, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7474,7 +7474,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of মহাজাগতিক শূন্যস্থান বোয়েস ভয়েড rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7489,7 +7489,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing মহাজাগতিক শূন্যস্থান বোয়েস ভয়েড, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7501,7 +7501,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of মহাজাগতিক শূন্যস্থান বোয়েস ভয়েড rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7516,7 +7516,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing টাইটানের বুকে তরল পেট্রোলিয়ামের নদী, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7528,7 +7528,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of টাইটানের বুকে তরল পেট্রোলিয়ামের নদী rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7543,7 +7543,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing টাইটানের বুকে তরল পেট্রোলিয়ামের নদী, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7555,7 +7555,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of টাইটানের বুকে তরল পেট্রোলিয়ামের নদী rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7570,7 +7570,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing ভাসমান মহাজাগতিক গ্যাস ক্লাউড ক্যাটস আই, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7582,7 +7582,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of ভাসমান মহাজাগতিক গ্যাস ক্লাউড ক্যাটস আই rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7597,7 +7597,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing ভাসমান মহাজাগতিক গ্যাস ক্লাউড ক্যাটস আই, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7609,7 +7609,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of ভাসমান মহাজাগতিক গ্যাস ক্লাউড ক্যাটস আই rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7624,7 +7624,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing চাঁদে মানুষের পায়ের অক্ষত ছাপ, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7636,7 +7636,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of চাঁদে মানুষের পায়ের অক্ষত ছাপ rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7651,7 +7651,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing চাঁদে মানুষের পায়ের অক্ষত ছাপ, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7663,7 +7663,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of চাঁদে মানুষের পায়ের অক্ষত ছাপ rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7678,7 +7678,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing সৌর পাল বা সোলার সেইল প্রোপালশন, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7690,7 +7690,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of সৌর পাল বা সোলার সেইল প্রোপালশন rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7705,7 +7705,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing সৌর পাল বা সোলার সেইল প্রোপালশন, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7717,7 +7717,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of সৌর পাল বা সোলার সেইল প্রোপালশন rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7732,7 +7732,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing নক্ষত্রের মৃত্যুতে ব্ল্যাক ডোয়ার্ফ দশা, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7744,7 +7744,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of নক্ষত্রের মৃত্যুতে ব্ল্যাক ডোয়ার্ফ দশা rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7759,7 +7759,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing নক্ষত্রের মৃত্যুতে ব্ল্যাক ডোয়ার্ফ দশা, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7771,7 +7771,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of নক্ষত্রের মৃত্যুতে ব্ল্যাক ডোয়ার্ফ দশা rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7786,7 +7786,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing বুধ গ্রহের গলিত লোহার কোর, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7798,7 +7798,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of বুধ গ্রহের গলিত লোহার কোর rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7813,7 +7813,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing বুধ গ্রহের গলিত লোহার কোর, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7825,7 +7825,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of বুধ গ্রহের গলিত লোহার কোর rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7840,7 +7840,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing মহাকাশের নীরবতা ও শব্দের গতিহীনতা, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7852,7 +7852,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of মহাকাশের নীরবতা ও শব্দের গতিহীনতা rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7867,7 +7867,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing মহাকাশের নীরবতা ও শব্দের গতিহীনতা, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7879,7 +7879,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of মহাকাশের নীরবতা ও শব্দের গতিহীনতা rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7894,7 +7894,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing নেপচুনের সুপারসনিক হিমশীতল ঝড়, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7906,7 +7906,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of নেপচুনের সুপারসনিক হিমশীতল ঝড় rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7921,7 +7921,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing নেপচুনের সুপারসনিক হিমশীতল ঝড়, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7933,7 +7933,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of নেপচুনের সুপারসনিক হিমশীতল ঝড় rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7948,7 +7948,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing গ্যালাক্সির সুপারক্লাস্টার ল্যানিয়াকেয়া, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7960,7 +7960,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of গ্যালাক্সির সুপারক্লাস্টার ল্যানিয়াকেয়া rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -7975,7 +7975,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing গ্যালাক্সির সুপারক্লাস্টার ল্যানিয়াকেয়া, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -7987,7 +7987,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of গ্যালাক্সির সুপারক্লাস্টার ল্যানিয়াকেয়া rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -8002,7 +8002,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing মঙ্গল গ্রহের সুবিশাল ভ্যালেস মেরিনারিস গিরিখাত, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -8014,7 +8014,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of মঙ্গল গ্রহের সুবিশাল ভ্যালেস মেরিনারিস গিরিখাত rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -8029,7 +8029,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing মঙ্গল গ্রহের সুবিশাল ভ্যালেস মেরিনারিস গিরিখাত, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -8041,7 +8041,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of মঙ্গল গ্রহের সুবিশাল ভ্যালেস মেরিনারিস গিরিখাত rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -8056,7 +8056,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing দূরবর্তী এক্সোপ্ল্যানেটের লাল সূর্যাস্ত, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -8068,7 +8068,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of দূরবর্তী এক্সোপ্ল্যানেটের লাল সূর্যাস্ত rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -8083,7 +8083,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing দূরবর্তী এক্সোপ্ল্যানেটের লাল সূর্যাস্ত, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -8095,7 +8095,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of দূরবর্তী এক্সোপ্ল্যানেটের লাল সূর্যাস্ত rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -8110,7 +8110,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing ধূমকেতুর লেজের উজ্জ্বল বরফ ধূলিকণা, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -8122,7 +8122,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of ধূমকেতুর লেজের উজ্জ্বল বরফ ধূলিকণা rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -8137,7 +8137,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing ধূমকেতুর লেজের উজ্জ্বল বরফ ধূলিকণা, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -8149,7 +8149,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of ধূমকেতুর লেজের উজ্জ্বল বরফ ধূলিকণা rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -8164,7 +8164,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing মহাজাগতিক রশ্মির ডিএনএ মিউটেশন, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -8176,7 +8176,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of মহাজাগতিক রশ্মির ডিএনএ মিউটেশন rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -8191,7 +8191,7 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "অদেখা সীমানা",
-        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
+        "dialogue": "মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!",
         "prompt": "Ultra-wide cinematic space camera, majestic cosmic vista showcasing মহাজাগতিক রশ্মির ডিএনএ মিউটেশন, brilliant starlight, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       },
       {
@@ -8203,7 +8203,7 @@ const bundleData = [
       {
         "part": "Scene 3 (20-30s)",
         "title": "অনন্তের পাঠ",
-        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
+        "dialogue": "বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!",
         "prompt": "Epic camera pull-back into deep void leaving the glowing phenomenon of মহাজাগতিক রশ্মির ডিএনএ মিউটেশন rotating silently, Unreal Engine 5 space documentary, 8k vertical, volumetric galaxy dust, NASA realism --ar 9:16"
       }
     ]
@@ -8218,19 +8218,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to মিথ্যা ধরার চোখের পলক ও সংকেত, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8245,19 +8245,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to মিথ্যা ধরার চোখের পলক ও সংকেত, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8272,19 +8272,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to নীরবতার মানসিক আধিপত্য ও স্টোয়িক শক্তি, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8299,19 +8299,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to নীরবতার মানসিক আধিপত্য ও স্টোয়িক শক্তি, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8326,19 +8326,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to নাম ধরে ডাকার মিষ্টি সম্মোহন হ্যাক, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8353,19 +8353,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to নাম ধরে ডাকার মিষ্টি সম্মোহন হ্যাক, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8380,19 +8380,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to বডি ল্যাঙ্গুয়েজে পায়ের পাতার দিক, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8407,19 +8407,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to বডি ল্যাঙ্গুয়েজে পায়ের পাতার দিক, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8434,19 +8434,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to ম্যানিপুলেশন এড়াতে সময় চাওয়ার আর্ট, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8461,19 +8461,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to ম্যানিপুলেশন এড়াতে সময় চাওয়ার আর্ট, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8488,19 +8488,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to স্পটলাইট ইফেক্ট ও কাল্পনিক ভীতি, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8515,19 +8515,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to স্পটলাইট ইফেক্ট ও কাল্পনিক ভীতি, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8542,19 +8542,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to গ্যাসলাইটিং চিনতে স্মৃতি সংরক্ষণের অভ্যাস, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8569,19 +8569,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to গ্যাসলাইটিং চিনতে স্মৃতি সংরক্ষণের অভ্যাস, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8596,19 +8596,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to প্রথম সাক্ষাতের ৭ সেকেন্ড ফার্স্ট ইম্প্রেশন, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8623,19 +8623,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to প্রথম সাক্ষাতের ৭ সেকেন্ড ফার্স্ট ইম্প্রেশন, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8650,19 +8650,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to ডোপামিন ডিটক্স ও গভীর মনোযোগ, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8677,19 +8677,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to ডোপামিন ডিটক্স ও গভীর মনোযোগ, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8704,19 +8704,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to বেনজামিন ফ্র্যাঙ্কলিন শত্রু জয়ের ফর্মুলা, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8731,19 +8731,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to বেনজামিন ফ্র্যাঙ্কলিন শত্রু জয়ের ফর্মুলা, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8758,19 +8758,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to প্রোকাস্টিনেশনের ৫ সেকেন্ড উল্টো রুল, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8785,19 +8785,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to প্রোকাস্টিনেশনের ৫ সেকেন্ড উল্টো রুল, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8812,19 +8812,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to ডার্ক ট্রায়াড ব্যক্তিত্ব চেনার কৌশল, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8839,19 +8839,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to ডার্ক ট্রায়াড ব্যক্তিত্ব চেনার কৌশল, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8866,19 +8866,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to অতিরিক্ত চিন্তা থামানোর ৫-৪-৩-২-১ ট্রিক, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8893,19 +8893,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to অতিরিক্ত চিন্তা থামানোর ৫-৪-৩-২-১ ট্রিক, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8920,19 +8920,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to অপরাধবোধ ছাড়া স্পষ্টভাবে নো বলা, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8947,19 +8947,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to অপরাধবোধ ছাড়া স্পষ্টভাবে নো বলা, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -8974,19 +8974,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to প্যাসিভ অ্যাগ্রেসিভ খোঁচায় শান্ত হাসি, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9001,19 +9001,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to প্যাসিভ অ্যাগ্রেসিভ খোঁচায় শান্ত হাসি, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9028,19 +9028,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to রিভার্স সাইকোলজিতে দাবি আদায়, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9055,19 +9055,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to রিভার্স সাইকোলজিতে দাবি আদায়, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9082,19 +9082,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to স্মাইল মিররিং দিয়ে মানুষের আস্থা অর্জন, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9109,19 +9109,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to স্মাইল মিররিং দিয়ে মানুষের আস্থা অর্জন, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9136,19 +9136,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to দ্বিমত হলে দীর্ঘশ্বাস না ফেলার কৌশল, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9163,19 +9163,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to দ্বিমত হলে দীর্ঘশ্বাস না ফেলার কৌশল, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9190,19 +9190,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to অপমানের মুখে নীরব চোখে কপাল দেখা, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9217,19 +9217,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to অপমানের মুখে নীরব চোখে কপাল দেখা, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9244,19 +9244,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to অন্যের প্রশংসায় আত্মবিশ্বাস বৃদ্ধির হ্যাক, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9271,19 +9271,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to অন্যের প্রশংসায় আত্মবিশ্বাস বৃদ্ধির হ্যাক, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9298,19 +9298,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to চরম রাগের মুহূর্তে পানি পানের বৈজ্ঞানিক যুক্তি, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9325,19 +9325,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to চরম রাগের মুহূর্তে পানি পানের বৈজ্ঞানিক যুক্তি, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9352,19 +9352,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to কথোপকথনে তিন সেকেন্ড পজের রহস্য, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9379,19 +9379,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to কথোপকথনে তিন সেকেন্ড পজের রহস্য, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9406,19 +9406,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to কারো গোপন কথা জানতে নীরব অপেক্ষা, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9433,19 +9433,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to কারো গোপন কথা জানতে নীরব অপেক্ষা, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9460,19 +9460,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to চোখের পলক না ফেলে কর্তৃত্ব প্রকাশ, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9487,19 +9487,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to চোখের পলক না ফেলে কর্তৃত্ব প্রকাশ, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9514,19 +9514,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to ভয় পেলে কাঁধ চওড়া করার বডি হ্যাক, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9541,19 +9541,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to ভয় পেলে কাঁধ চওড়া করার বডি হ্যাক, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9568,19 +9568,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to নিজের সাফল্য গোপনে রাখার মনস্তত্ত্ব, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9595,19 +9595,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to নিজের সাফল্য গোপনে রাখার মনস্তত্ত্ব, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9622,19 +9622,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to দ্বিধাগ্রস্ত মানুষের সিদ্ধান্ত নিয়ন্ত্রণ, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9649,19 +9649,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to দ্বিধাগ্রস্ত মানুষের সিদ্ধান্ত নিয়ন্ত্রণ, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9676,19 +9676,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to ইমোশনাল ব্ল্যাকমেইল কাটিয়ে ওঠার ঢাল, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9703,19 +9703,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to ইমোশনাল ব্ল্যাকমেইল কাটিয়ে ওঠার ঢাল, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9730,19 +9730,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to কথার মাঝে নিজের ভুল স্বীকারের স্মার্টনেস, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9757,19 +9757,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to কথার মাঝে নিজের ভুল স্বীকারের স্মার্টনেস, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9784,19 +9784,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to অচেনা মানুষের সাথে আই-কন্টাক্ট ভাঙার দিক, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9811,19 +9811,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to অচেনা মানুষের সাথে আই-কন্টাক্ট ভাঙার দিক, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9838,19 +9838,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to ধার দেওয়া টাকা ফেরত চাওয়ার সাইকোলজি, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9865,19 +9865,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to ধার দেওয়া টাকা ফেরত চাওয়ার সাইকোলজি, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9892,19 +9892,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to মিথ্যা অজুহাতে প্রশ্ন করার শান্ত ভঙ্গি, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9919,19 +9919,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to মিথ্যা অজুহাতে প্রশ্ন করার শান্ত ভঙ্গি, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9946,19 +9946,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to অহংকারী বসের সামনে স্থির থাকার ভঙ্গি, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9973,19 +9973,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to অহংকারী বসের সামনে স্থির থাকার ভঙ্গি, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -9994,25 +9994,25 @@ const bundleData = [
     "id": "PSY-371",
     "category": "psychology",
     "badge": "Dark Psychology",
-    "title": "অযথা সমালোচনায় প্রতিক্রিয়া শূন্যতা (মাইন্ডসেট ফর্মুলা)",
+    "title": "অযথা সমালোচনায় প্রতিক্রিয়া শূন্যতা (মাইন্ডসেট ফর্মুলা)",
     "tagline": "৩০ সেকেন্ড ডার্ক সাইকোলজি • পার্ট 1",
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
-        "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to অযথা সমালোচনায় প্রতিক্রিয়া শূন্যতা, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to অযথা সমালোচনায় প্রতিক্রিয়া শূন্যতা, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10021,25 +10021,25 @@ const bundleData = [
     "id": "PSY-372",
     "category": "psychology",
     "badge": "Dark Psychology",
-    "title": "অযথা সমালোচনায় প্রতিক্রিয়া শূন্যতা (গোপন ট্রিক)",
+    "title": "অযথা সমালোচনায় প্রতিক্রিয়া শূন্যতা (গোপন ট্রিক)",
     "tagline": "৩০ সেকেন্ড ডার্ক সাইকোলজি • পার্ট 2",
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
-        "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to অযথা সমালোচনায় প্রতিক্রিয়া শূন্যতা, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to অযথা সমালোচনায় প্রতিক্রিয়া শূন্যতা, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10054,19 +10054,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to পছন্দের মানুষটির অবচেতন নকল হ্যাক, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10081,19 +10081,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to পছন্দের মানুষটির অবচেতন নকল হ্যাক, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10102,25 +10102,25 @@ const bundleData = [
     "id": "PSY-375",
     "category": "psychology",
     "badge": "Dark Psychology",
-    "title": "কথোপকথনে শেষ বাক্য নিজের রাখার নিয়ম (মাইন্ডসেট ফর্মুলা)",
+    "title": "কথোপকথনে শেষ বাক্য নিজের রাখার নিয়ম (মাইন্ডসেট ফর্মুলা)",
     "tagline": "৩০ সেকেন্ড ডার্ক সাইকোলজি • পার্ট 1",
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
-        "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to কথোপকথনে শেষ বাক্য নিজের রাখার নিয়ম, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to কথোপকথনে শেষ বাক্য নিজের রাখার নিয়ম, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10129,25 +10129,25 @@ const bundleData = [
     "id": "PSY-376",
     "category": "psychology",
     "badge": "Dark Psychology",
-    "title": "কথোপকথনে শেষ বাক্য নিজের রাখার নিয়ম (গোপন ট্রিক)",
+    "title": "কথোপকথনে শেষ বাক্য নিজের রাখার নিয়ম (গোপন ট্রিক)",
     "tagline": "৩০ সেকেন্ড ডার্ক সাইকোলজি • পার্ট 2",
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
-        "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to কথোপকথনে শেষ বাক্য নিজের রাখার নিয়ম, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to কথোপকথনে শেষ বাক্য নিজের রাখার নিয়ম, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10162,19 +10162,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to শত্রুর সামনে শান্ত থেকে নার্ভাস করা, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10189,19 +10189,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to শত্রুর সামনে শান্ত থেকে নার্ভাস করা, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10216,19 +10216,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to ব্যর্থতার পর আত্মগ্লানি কাটানোর কৌশল, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10243,19 +10243,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to ব্যর্থতার পর আত্মগ্লানি কাটানোর কৌশল, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10264,25 +10264,25 @@ const bundleData = [
     "id": "PSY-381",
     "category": "psychology",
     "badge": "Dark Psychology",
-    "title": "আড্ডায় সেরা শ্রোতা হয়ে কেন্দ্রবিন্দু হওয়া (মাইন্ডসেট ফর্মুলা)",
+    "title": "আড্ডায় সেরা শ্রোতা হয়ে কেন্দ্রবিন্দু হওয়া (মাইন্ডসেট ফর্মুলা)",
     "tagline": "৩০ সেকেন্ড ডার্ক সাইকোলজি • পার্ট 1",
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
-        "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to আড্ডায় সেরা শ্রোতা হয়ে কেন্দ্রবিন্দু হওয়া, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to আড্ডায় সেরা শ্রোতা হয়ে কেন্দ্রবিন্দু হওয়া, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10291,25 +10291,25 @@ const bundleData = [
     "id": "PSY-382",
     "category": "psychology",
     "badge": "Dark Psychology",
-    "title": "আড্ডায় সেরা শ্রোতা হয়ে কেন্দ্রবিন্দু হওয়া (গোপন ট্রিক)",
+    "title": "আড্ডায় সেরা শ্রোতা হয়ে কেন্দ্রবিন্দু হওয়া (গোপন ট্রিক)",
     "tagline": "৩০ সেকেন্ড ডার্ক সাইকোলজি • পার্ট 2",
     "scenes": [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
-        "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to আড্ডায় সেরা শ্রোতা হয়ে কেন্দ্রবিন্দু হওয়া, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to আড্ডায় সেরা শ্রোতা হয়ে কেন্দ্রবিন্দু হওয়া, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10324,19 +10324,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to নিজের দুর্বলতা শক্তিতে রূপান্তরের আর্ট, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10351,19 +10351,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to নিজের দুর্বলতা শক্তিতে রূপান্তরের আর্ট, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10378,19 +10378,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to সামাজিক উদ্বেগে হাতের তালু স্থির রাখা, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10405,19 +10405,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to সামাজিক উদ্বেগে হাতের তালু স্থির রাখা, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10432,19 +10432,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to সবাইকে বিশ্বাস করার অন্ধভুলের সমাধান, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10459,19 +10459,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to সবাইকে বিশ্বাস করার অন্ধভুলের সমাধান, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10486,19 +10486,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to টক্সিক ফ্রেন্ডশিপ চেনার তিনটি লাল পতাকা, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10513,19 +10513,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to টক্সিক ফ্রেন্ডশিপ চেনার তিনটি লাল পতাকা, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10540,19 +10540,19 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to নিজের সীমানা নির্ধারণের মানসিক গার্ডেন, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
@@ -10567,21 +10567,22 @@ const bundleData = [
       {
         "part": "Scene 1 (00-10s)",
         "title": "মনস্তাত্ত্বিক পর্যবেক্ষণ",
-        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
+        "dialogue": "যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!",
         "prompt": "Cinematic portrait 9:16, intense focused eyes observing human interaction related to নিজের সীমানা নির্ধারণের মানসিক গার্ডেন, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 2 (10-20s)",
         "title": "পাওয়ার ডাইনামিক্স",
-        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
+        "dialogue": "বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!",
         "prompt": "Medium profile shot, calm stoic protagonist commanding psychological authority during tension, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       },
       {
         "part": "Scene 3 (20-30s)",
         "title": "স্থায়ী আধিপত্য",
-        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
+        "dialogue": "মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!",
         "prompt": "Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, Cinematic film noir, shallow depth of field, high contrast chiaroscuro lighting, 8k --ar 9:16"
       }
     ]
   }
 ];
+if (typeof window !== 'undefined') { window.bundleData = bundleData; }
