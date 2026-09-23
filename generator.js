@@ -62,8 +62,8 @@ const psychologySubjects = [
   "চরম রাগের মুহূর্তে পানি পানের বৈজ্ঞানিক যুক্তি", "কথোপকথনে তিন সেকেন্ড পজের রহস্য", "কারো গোপন কথা জানতে নীরব অপেক্ষা", "চোখের পলক না ফেলে কর্তৃত্ব প্রকাশ",
   "ভয় পেলে কাঁধ চওড়া করার বডি হ্যাক", "নিজের সাফল্য গোপনে রাখার মনস্তত্ত্ব", "দ্বিধাগ্রস্ত মানুষের সিদ্ধান্ত নিয়ন্ত্রণ", "ইমোশনাল ব্ল্যাকমেইল কাটিয়ে ওঠার ঢাল",
   "কথার মাঝে নিজের ভুল স্বীকারের স্মার্টনেস", "অচেনা মানুষের সাথে আই-কন্টাক্ট ভাঙার দিক", "ধার দেওয়া টাকা ফেরত চাওয়ার সাইকোলজি", "মিথ্যা অজুহাতে প্রশ্ন করার শান্ত ভঙ্গি",
-  "অহংকারী বসের সামনে স্থির থাকার ভঙ্গি", "অযথা সমালোচনায় প্রতিক্রিয়া শূন্যতা", "পছন্দের মানুষটির অবচেতন নকল হ্যাক", "কথোপকথনে শেষ বাক্য নিজের রাখার নিয়ম",
-  "শত্রুর সামনে শান্ত থেকে নার্ভাস করা", "ব্যর্থতার পর আত্মগ্লানি কাটানোর কৌশল", "আড্ডায় সেরা শ্রোতা হয়ে কেন্দ্রবিন্দু হওয়া", "নিজের দুর্বলতা শক্তিতে রূপান্তরের আর্ট",
+  "অহংকারী বসের সামনে স্থির থাকার ভঙ্গি", "অযথা সমালোচনায় প্রতিক্রিয়া শূন্যতা", "পছন্দের মানুষটির অবচেতন নকল হ্যাক", "কথোপকথনে শেষ বাক্য নিজের রাখার নিয়ম",
+  "শত্রুর সামনে শান্ত থেকে নার্ভাস করা", "ব্যর্থতার পর আত্মগ্লানি কাটানোর কৌশল", "আড্ডায় সেরা শ্রোতা হয়ে কেন্দ্রবিন্দু হওয়া", "নিজের দুর্বলতা শক্তিতে রূপান্তরের আর্ট",
   "সামাজিক উদ্বেগে হাতের তালু স্থির রাখা", "সবাইকে বিশ্বাস করার অন্ধভুলের সমাধান", "টক্সিক ফ্রেন্ডশিপ চেনার তিনটি লাল পতাকা", "নিজের সীমানা নির্ধারণের মানসিক গার্ডেন"
 ];
 
@@ -94,26 +94,26 @@ categoryPacks.forEach(cat => {
         titleName = `${topic} (${variation === 1 ? 'বাচ্চার ওস্তাদি' : 'মজার কাণ্ড'})`;
         taglineText = `৩০ সেকেন্ড ফানি এনিমেশন • পার্ট ${variation}`;
         s1Title = "দৃশ্যপট ও চ্যালেঞ্জ";
-        s1Dlg = `${topic}-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!`;
+        s1Dlg = `${topic}-এর ঘটনা নিয়ে পিচ্চি তো রেডি! কিন্তু শুরুতেই এক আজব ঝামেলা এসে হাজির হলো!`;
         s1Prm = `Cinematic vertical shot, cute toddler involved in ${topic}, hilarious determined expression, ${cat.style}`;
         
         s2Title = "কমেডি তর্ক ও ক্লাইম্যাক্স";
-        s2Dlg = `পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'`;
+        s2Dlg = `পিচ্চি কোমর দোলাইয়া যুক্তি দিতে লাগল—'আমি ছোট হইলে কি বুদ্ধি কম নাকি? এইটার বিচার আমি কইরাই ছাড়মু!'`;
         s2Prm = `Macro expressive comic close-up, toddler passionately waving hands arguing with funny lipsync, ${cat.style}`;
         
         s3Title = "শেষ পরিণতি ও টুইস্ট";
-        s3Dlg = `হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!`;
+        s3Dlg = `হঠাৎ পরিস্থিতি এমন উল্টো ঘুরল যে বাচ্চার চোখ ছানাবড়া! এখন হাসিমুখে দৌড়ে পালানো ছাড়া উপায় নাই!`;
         s3Prm = `Dynamic wide finish shot, funny action sequence of toddler escaping with cheeky smile, ${cat.style}`;
       } 
       else if (cat.key === "horror") {
         titleName = `${topic} (${variation === 1 ? 'গা ছমছমে রহস্য' : 'অজানা অধ্যায়'})`;
         taglineText = `৩০ সেকেন্ড প্যারানরমাল মিস্ট্রি • পার্ট ${variation}`;
-        s1Title = "কুয়াশাচ্ছন্ন সূত্রপাত";
-        s1Dlg = `মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!`;
+        s1Title = "কুয়াশাচ্ছন্ন সূত্রপাত";
+        s1Dlg = `মাঝরাতে সেই অভিশপ্ত জায়গায় পা রাখতেই চারপাশের তাপমাত্রা এক নিমেষে বরফের মতো ঠাণ্ডা হয়ে গেল!`;
         s1Prm = `Atmospheric establishing shot 9:16, eerie mist creeping over setting of ${topic}, ominous dread, ${cat.style}`;
         
-        s2Title = "ভয়ংকর উপস্থিতি";
-        s2Dlg = `টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!`;
+        s2Title = "ভয়ংকর উপস্থিতি";
+        s2Dlg = `টর্চের আলো ফেলতেই দেখা গেল বাতাসের ভেতর স্থির দাঁড়িয়ে আছে এক ছায়ামূর্তি, যার মুখে কোনো চোখ নেই!`;
         s2Prm = `Spooky slow dolly zoom, horrifying anomaly revealed in shadows related to ${topic}, chilling tension, ${cat.style}`;
         
         s3Title = "রক্তহিম সমাপ্তি";
@@ -124,7 +124,7 @@ categoryPacks.forEach(cat => {
         titleName = `${topic} (${variation === 1 ? 'মহাজাগতিক বিস্ময়' : 'বিজ্ঞান অনুসন্ধান'})`;
         taglineText = `৩০ সেকেন্ড স্পেস ডকুমেন্টারি • পার্ট ${variation}`;
         s1Title = "অদেখা সীমানা";
-        s1Dlg = `মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!`;
+        s1Dlg = `মহাবিশ্বের অনন্ত অন্ধকারের মাঝে লুকিয়ে আছে এক অবিশ্বাস্য রহস্য, যা মানুষের কল্পনাকেও হার মানায়!`;
         s1Prm = `Ultra-wide cinematic space camera, majestic cosmic vista showcasing ${topic}, brilliant starlight, ${cat.style}`;
         
         s2Title = "পদার্থবিজ্ঞানের চরম সীমা";
@@ -132,22 +132,22 @@ categoryPacks.forEach(cat => {
         s2Prm = `Extreme scientific visualization, relativistic plasma storms and energy fields churning around ${topic}, ${cat.style}`;
         
         s3Title = "অনন্তের পাঠ";
-        s3Dlg = `বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!`;
+        s3Dlg = `বিজ্ঞানীরা বলছেন, এই ঘটনার মাঝেই লুকিয়ে থাকতে পারে সময় ও মহাবিশ্বের সৃষ্টির আদিমতম কোনো সূত্র!`;
         s3Prm = `Epic camera pull-back into deep void leaving the glowing phenomenon of ${topic} rotating silently, ${cat.style}`;
       }
       else if (cat.key === "psychology") {
         titleName = `${topic} (${variation === 1 ? 'মাইন্ডসেট ফর্মুলা' : 'গোপন ট্রিক'})`;
         taglineText = `৩০ সেকেন্ড ডার্ক সাইকোলজি • পার্ট ${variation}`;
         s1Title = "মনস্তাত্ত্বিক পর্যবেক্ষণ";
-        s1Dlg = `যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!`;
+        s1Dlg = `যেকোনো মানুষের অবচেতন মন বোঝার জন্য এই ছোট সাইকোলজিক্যাল প্যাটার্নটি খেয়াল করা সবচেয়ে জরুরি!`;
         s1Prm = `Cinematic portrait 9:16, intense focused eyes observing human interaction related to ${topic}, ${cat.style}`;
         
         s2Title = "পাওয়ার ডাইনামিক্স";
-        s2Dlg = `বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!`;
+        s2Dlg = `বেশিরভাগ মানুষ আবেগের ফাঁদে পড়ে ভুল প্রতিক্রিয়া দেখায়; কিন্তু আপনি শান্ত চোখে পরিস্থিতি নিয়ন্ত্রণ করবেন!`;
         s2Prm = `Medium profile shot, calm stoic protagonist commanding psychological authority during tension, ${cat.style}`;
         
         s3Title = "স্থায়ী আধিপত্য";
-        s3Dlg = `মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!`;
+        s3Dlg = `মনে রাখবেন, যে নিজের আবেগ নিয়ন্ত্রণ করতে শিখেছে, পুরো দুনিয়া তার কথার সামনে মাথা নত করতে বাধ্য!`;
         s3Prm = `Inspiring cinematic low-angle hero shot, confident stride into warm golden sunlight, victorious, ${cat.style}`;
       }
 
@@ -169,7 +169,8 @@ categoryPacks.forEach(cat => {
   });
 });
 
-const fileContent = `// Truly Unique 416 Authentic Stories (1248 Production Prompts)\nconst bundleData = ${JSON.stringify(allKits, null, 2)};\n`;
+// Explicit global assignment for browser compatibility
+const fileContent = `// Truly Unique 416 Authentic Stories (1248 Production Prompts)\nvar bundleData = ${JSON.stringify(allKits, null, 2)};\nif (typeof window !== 'undefined') { window.bundleData = bundleData; }\n`;
 
 fs.writeFileSync('data.js', fileContent, 'utf-8');
 
