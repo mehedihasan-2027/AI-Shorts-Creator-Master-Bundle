@@ -61,6 +61,14 @@
     .custom-scroll::-webkit-scrollbar { height: 5px; width: 5px; }
     .custom-scroll::-webkit-scrollbar-thumb { background: #3730a3; border-radius: 6px; }
     .custom-scroll::-webkit-scrollbar-track { background: transparent; }
+
+    @keyframes pulseGlow {
+      0%, 100% { transform: scale(1); opacity: 0.8; }
+      50% { transform: scale(1.06); opacity: 1; filter: drop-shadow(0 0 25px rgba(99, 102, 241, 0.8)); }
+    }
+    .pulse-glow {
+      animation: pulseGlow 2s infinite ease-in-out;
+    }
   </style>
 </head>
 <body class="text-slate-100 min-h-screen antialiased selection:bg-indigo-500 selection:text-white flex flex-col overflow-x-hidden">
@@ -71,8 +79,8 @@
   </div>
 
   <!-- Device Lock Screen -->
-  <div id="lockScreen" class="fixed inset-0 bg-[#060911]/90 backdrop-blur-md flex items-center justify-center p-4 z-50">
-    <div class="relative w-full max-w-[420px] rounded-[28px] bg-[#0d1322] border border-slate-700/60 p-6 sm:p-8 text-center shadow-2xl">
+  <div id="lockScreen" class="fixed inset-0 bg-[#060911]/95 backdrop-blur-xl flex items-center justify-center p-4 z-50">
+    <div id="lockCard" class="relative w-full max-w-[420px] rounded-[28px] bg-[#0d1322] border border-slate-700/60 p-6 sm:p-8 text-center shadow-2xl transition-all duration-300">
       
       <div class="relative mx-auto mb-3.5 h-14 w-14 flex items-center justify-center">
         <div class="absolute inset-0 rounded-2xl bg-indigo-500 blur-lg opacity-40"></div>
@@ -152,6 +160,46 @@
         </a>
       </div>
 
+    </div>
+
+    <!-- Premium Holographic Loading Overlay (Shows during login sequence) -->
+    <div id="unlockLoadingModal" class="hidden absolute inset-0 flex items-center justify-center p-4 z-50">
+      <div class="relative w-full max-w-[390px] rounded-[30px] bg-[#0c1222]/95 border border-indigo-500/50 p-8 text-center shadow-2xl backdrop-blur-2xl">
+        
+        <!-- Glowing Futuristic Hex Spinner -->
+        <div class="relative mx-auto mb-6 h-20 w-20 flex items-center justify-center">
+          <div class="absolute inset-0 rounded-full border-2 border-indigo-500/20 animate-ping"></div>
+          <div class="absolute inset-0 rounded-full border-2 border-t-indigo-500 border-r-purple-500 border-b-transparent border-l-transparent animate-spin"></div>
+          <div class="relative h-14 w-14 rounded-2xl bg-gradient-to-tr from-indigo-600 to-purple-600 flex items-center justify-center text-white text-2xl shadow-xl pulse-glow">
+            🔐
+          </div>
+        </div>
+
+        <h3 class="text-base font-bold text-white tracking-wide mb-1" id="loadingTitle">লাইসেন্স এনক্রিপশন ডিকোড হচ্ছে...</h3>
+        <p class="text-xs text-indigo-300/80 font-mono mb-6" id="loadingSubtitle">VERIFYING HARDWARE SIGNATURE</p>
+
+        <!-- Dynamic Neon Progress Track -->
+        <div class="w-full bg-[#060911] h-2 rounded-full overflow-hidden border border-slate-700/80 mb-4 p-0.5">
+          <div id="unlockProgressBar" class="h-full bg-gradient-to-r from-indigo-500 via-purple-500 to-emerald-400 rounded-full transition-all duration-300 w-0 shadow-lg shadow-indigo-500/50"></div>
+        </div>
+
+        <!-- Terminal Step Log Display -->
+        <div class="bg-[#050811] border border-slate-800 rounded-xl p-3 text-left space-y-2">
+          <div class="flex items-center gap-2 text-[11px] text-slate-300 font-mono" id="logStep1">
+            <span class="text-indigo-400">⏳</span> <span>ডিভাইস আইডি কিটের সাথে মিলানো হচ্ছে...</span>
+          </div>
+          <div class="flex items-center gap-2 text-[11px] text-slate-500 font-mono" id="logStep2">
+            <span>⚪</span> <span>১,২০০টি প্রোডাকশন কিট অথেনটিকেশন...</span>
+          </div>
+          <div class="flex items-center gap-2 text-[11px] text-slate-500 font-mono" id="logStep3">
+            <span>⚪</span> <span>৩৬০০টি প্রম্পট ও ডায়ালগ ড্যাশবোর্ডে লোড হচ্ছে...</span>
+          </div>
+        </div>
+
+        <div class="mt-4 text-[10px] text-slate-400 tracking-wider uppercase font-semibold">
+          AI Shorts Creator Master Engine v2.4
+        </div>
+      </div>
     </div>
   </div>
 
@@ -242,14 +290,14 @@
         </button>
       </div>
 
-      <!-- AI Modifier Box -->
+      <!-- Universal AI Modifier Box (Works on Cartoon, Horror, Space, Psychology) -->
       <div class="mb-5 bg-gradient-to-r from-indigo-950/50 via-[#131b31] to-purple-950/40 border border-indigo-500/30 rounded-2xl p-3.5 sm:p-4 flex flex-col sm:flex-row items-center justify-between gap-3 shadow-lg shadow-black/20">
         <div class="text-left w-full sm:w-auto">
           <div class="flex items-center gap-2">
-            <span class="text-xs font-bold text-indigo-300 flex items-center gap-1">🪄 AI Prompt Customizer (চরিত্র বা বিষয় পরিবর্তন):</span>
-            <span class="bg-indigo-500/20 text-indigo-300 border border-indigo-500/30 text-[9px] font-bold px-1.5 py-0.2 rounded-full">SMART</span>
+            <span class="text-xs font-bold text-indigo-300 flex items-center gap-1">🪄 Universal AI Prompt Customizer (চরিত্র বা বিষয় রূপান্তর):</span>
+            <span class="bg-indigo-500/20 text-indigo-300 border border-indigo-500/30 text-[9px] font-bold px-1.5 py-0.2 rounded-full">ALL NICHES</span>
           </div>
-          <p class="text-[11px] text-slate-400 font-medium mt-0.5">যে কোনো ক্যারেক্টার লিখলে সব কার্ডের মূল প্রম্পটে ইনস্ট্যান্ট পরিবর্তন হবে</p>
+          <p class="text-[11px] text-slate-400 font-medium mt-0.5">কার্টুন, হরর, মহাকাশ বা সাইকোলজি—যেকোনো ক্যারেক্টার লিখলেই সব কার্ডের প্রম্পটে ইনস্ট্যান্ট রূপান্তর ঘটবে</p>
         </div>
         <div class="flex items-center gap-2 w-full sm:w-80">
           <input 
@@ -257,7 +305,7 @@
             id="modifierInput" 
             aria-label="ক্যারেক্টার পরিবর্তন ইনপুট"
             oninput="handleFilter()" 
-            placeholder="e.g. cute puppy, old wise monk..." 
+            placeholder="e.g. cute puppy, old wise monk, cyberpunk girl..." 
             class="w-full bg-[#080d1a] border border-indigo-500/40 rounded-xl px-3 py-2 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-indigo-400 transition"
           >
           <button onclick="clearModifier()" aria-label="ইনপুট রিসেট করুন" class="bg-slate-800 hover:bg-slate-700 text-slate-300 text-xs px-2.5 py-2 rounded-xl font-bold transition">✕</button>
@@ -705,6 +753,12 @@
     function showLockScreenUI() {
       var lock = document.getElementById('lockScreen');
       var dash = document.getElementById('dashboard');
+      var loadingModal = document.getElementById('unlockLoadingModal');
+      var lockCard = document.getElementById('lockCard');
+
+      if (loadingModal) loadingModal.classList.add('hidden');
+      if (lockCard) lockCard.style.opacity = '1';
+
       if (dash) {
         dash.style.display = 'none';
         dash.classList.add('hidden');
@@ -745,11 +799,23 @@
       return false;
     }
 
+    // ==========================================
+    // 🚀 NEW: Futuristic Login Experience Sequence
+    // ==========================================
     function unlockDashboard() {
       var input = document.getElementById('passInput');
       var errorMsg = document.getElementById('errorMsg');
-      var btn = document.getElementById('unlockBtn');
+      var lockCard = document.getElementById('lockCard');
+      var loadingModal = document.getElementById('unlockLoadingModal');
+      var progressBar = document.getElementById('unlockProgressBar');
+      var loadingTitle = document.getElementById('loadingTitle');
+      var loadingSubtitle = document.getElementById('loadingSubtitle');
       var rememberChk = document.getElementById('rememberMe');
+      
+      var log1 = document.getElementById('logStep1');
+      var log2 = document.getElementById('logStep2');
+      var log3 = document.getElementById('logStep3');
+
       var val = input ? input.value.trim() : '';
 
       if (errorMsg) {
@@ -768,26 +834,49 @@
       }
 
       if (verifyActivationKey(val)) {
-        if (btn) {
-          btn.innerHTML = "<span>আনলক হচ্ছে... 🚀</span>";
-          btn.classList.add('!bg-emerald-600');
-        }
-
+        // Save authorization
         localStorage.setItem('creator_saved_activation_key', val);
-
         if (rememberChk && rememberChk.checked) {
           localStorage.setItem('creator_is_unlocked', 'true');
         } else {
           sessionStorage.setItem('creator_is_unlocked', 'true');
         }
 
+        // Trigger Futuristic Sequence
+        if (lockCard) lockCard.style.opacity = '0.05';
+        if (loadingModal) loadingModal.classList.remove('hidden');
+
+        // Step 1: Signature Verified (0ms - 400ms)
+        progressBar.style.width = '30%';
+        log1.innerHTML = '<span class="text-emerald-400">✓</span> <span class="text-emerald-300">ডিভাইস সিগনেচার সফলভাবে অনুমোদিত!</span>';
+
+        // Step 2: License Decrypt (400ms - 900ms)
         setTimeout(function() {
+          progressBar.style.width = '65%';
+          loadingTitle.innerText = "প্রোডাকশন ডেটাবেজ প্রস্তুত হচ্ছে...";
+          loadingSubtitle.innerText = "DECRYPTING 1,200 FULL VIDEO KITS";
+          log2.innerHTML = '<span class="text-emerald-400">✓</span> <span class="text-emerald-300">১,২০০টি প্রোডাকশন কিট অ্যাক্সেস রেডি!</span>';
+          log2.classList.remove('text-slate-500');
+          log2.classList.add('text-slate-300');
+        }, 500);
+
+        // Step 3: Vault Finalizing (900ms - 1300ms)
+        setTimeout(function() {
+          progressBar.style.width = '100%';
+          loadingTitle.innerText = "আনলক সম্পন্ন! ড্যাশবোর্ডে প্রবেশ হচ্ছে...";
+          loadingSubtitle.innerText = "ACCESS GRANTED • WELCOME CREATOR";
+          log3.innerHTML = '<span class="text-emerald-400">✓</span> <span class="text-emerald-300">৩৬০০টি এআই প্রম্পট লোড সম্পন্ন!</span>';
+          log3.classList.remove('text-slate-500');
+          log3.classList.add('text-slate-300');
+        }, 1000);
+
+        // Final step: Switch Screen to Dashboard
+        setTimeout(function() {
+          if (loadingModal) loadingModal.classList.add('hidden');
           showDashboardUI();
-          if (btn) {
-            btn.innerHTML = "<span>আনলক করুন</span><span>🚀</span>";
-            btn.classList.remove('!bg-emerald-600');
-          }
-        }, 200);
+          showToast("🎉 স্বাগতম! AI Shorts Creator Master Bundle আনলক হয়েছে!");
+        }, 1500);
+
       } else {
         if (errorMsg) {
           errorMsg.innerText = "ভুল অ্যাক্টিভেশন কি! সঠিক কি দিন।";
@@ -817,14 +906,14 @@
           category: "cartoon",
           badge: "3D Animation",
           isTrending: true,
-          title: "কাওরান বাজারে ইলিশের দরদাম #1",
-          tagline: "৩০ সেকেন্ড ভাইরাল কমেডি • Kit #1",
+          title: "মাছের বাজারে ইলিশের দরদাম",
+          tagline: "৩০ সেকেন্ড ভাইরাল রিল • পার্ট ১",
           scenes: [
             {
               part: "Scene 1 (00-10s)",
-              title: "ইলিশ চাওয়া",
-              dialogue: "মামা, পদ্মার রুপালি ইলিশের দাম কি আসমান ছুঁইছে? ঠিকঠাক দাম কও নাইলে গলি ছাড়লাম!",
-              prompt: "Cinematic 3D Pixar animation 9:16, adorable 1.5-year-old toddler wearing tiny sunglasses in busy Kawran Bazar fish market, pointing chubby finger at giant silver Hilsa fish, wet stalls, warm volumetric lights --ar 9:16"
+              title: "পদ্মার ইলিশ দাবি",
+              dialogue: "মামা, এই রুপালি ইলিশের ওজন কত? দাম আসমান ছোঁয়া হইলে কিন্তু গলি ছাড়া করুম!",
+              prompt: "Cinematic 3D animation 9:16, hilarious 1.5-year-old toddler wearing tiny sunglasses at busy Kawran Bazar fish market, pointing chubby finger at giant silver Hilsa fish, wet wooden stalls, volumetric lighting --ar 9:16"
             }
           ]
         }
@@ -895,15 +984,60 @@
       handleFilter();
     }
 
+    // ========================================================
+    // 🪄 NEW: Universal Multi-Niche AI Prompt Customizer
+    // Works seamlessly on Cartoon, Horror, Space & Psychology
+    // ========================================================
     function modifyPromptText(rawPrompt) {
       var modInput = document.getElementById('modifierInput');
       var customSubject = modInput ? modInput.value.trim() : '';
       if (!customSubject || !rawPrompt) return rawPrompt;
 
-      return rawPrompt
-        .replace(/adorable 1\.5-year-old toddler wearing tiny sunglasses/gi, customSubject)
+      var modified = rawPrompt
+        // 1. Specific Cartoon Protagonist Matches
+        .replace(/adorable 1\.5-year-old toddler wearing tiny sunglasses/gi, customSubject + ' wearing tiny sunglasses')
+        .replace(/hilarious 1\.5-year-old toddler wearing tiny sunglasses/gi, 'hilarious ' + customSubject + ' wearing tiny sunglasses')
+        .replace(/chubby toddler in superhero red cape/gi, customSubject + ' in superhero red cape')
+        .replace(/chubby toddler in miniature velvet sherwani/gi, customSubject + ' in miniature velvet sherwani')
+        .replace(/toddler wearing miniature velvet sherwani/gi, customSubject + ' in miniature velvet sherwani')
+        .replace(/toddler in lungi and vest/gi, customSubject + ' in lungi and vest')
+        .replace(/toddler wearing ninja headband/gi, customSubject + ' wearing ninja headband')
+        .replace(/expressive wide-eyed toddler/gi, customSubject + ' with wide expressive eyes')
         .replace(/cute toddler/gi, customSubject)
-        .replace(/toddler/gi, customSubject);
+        .replace(/chubby toddler/gi, customSubject)
+        .replace(/toddler/gi, customSubject)
+        .replace(/baby/gi, customSubject)
+
+        // 2. Specific Horror Entity Matches
+        .replace(/solitary female silhouette draped in tattered white saree/gi, customSubject + ' draped in tattered ghostly cloth')
+        .replace(/shroud-wrapped skeletal silhouette/gi, customSubject + ' as an ominous spectral presence')
+        .replace(/pale spectral face/gi, 'pale spectral face of ' + customSubject)
+        .replace(/female figure facing mirror/gi, customSubject + ' facing mirror')
+        .replace(/female figure/gi, customSubject)
+        .replace(/shadowy figures/gi, 'shadowy ' + customSubject)
+
+        // 3. Specific Space & Sci-Fi Subject Matches
+        .replace(/astronaut/gi, customSubject)
+        .replace(/pilot/gi, customSubject)
+
+        // 4. Specific Psychology Subject Matches
+        .replace(/calm stoic figure/gi, 'calm stoic ' + customSubject)
+        .replace(/stoic figure/gi, customSubject)
+        .replace(/confident professional/gi, customSubject)
+        .replace(/stoic investigator/gi, customSubject)
+        .replace(/man in tailored charcoal suit/gi, customSubject + ' in tailored charcoal suit')
+        .replace(/man in dark turtleneck/gi, customSubject + ' in dark turtleneck')
+        .replace(/young man/gi, customSubject)
+        .replace(/interrogator/gi, customSubject)
+        .replace(/\bman\b/gi, customSubject)
+        .replace(/\bperson\b/gi, customSubject);
+
+      // 5. Intelligent Fallback: If prompt is an environmental/scenic shot with no character noun, inject character as hero subject
+      if (modified === rawPrompt) {
+        return 'Featuring ' + customSubject + ', ' + rawPrompt;
+      }
+
+      return modified;
     }
 
     function handleFilter() {
